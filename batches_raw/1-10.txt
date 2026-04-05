@@ -1,0 +1,1470 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nilormi, A
+   Bensimon, CM
+   Thomas, M
+   Wiles, S
+   Wilson, K
+AF Nilormi, Adhiba
+   Bensimon, Cecile M.
+   Thomas, Maya
+   Wiles, Slater
+   Wilson, Kumanan
+TI A scoping review of vaccine certificate implementation in Canada and
+   OECD countries during the COVID-19 pandemic: Outcomes and lessons
+   learned
+SO HUMAN VACCINES & IMMUNOTHERAPEUTICS
+LA English
+DT Article
+DE Vaccine certificates; proof of vaccination; COVID-19 pandemic; digital
+   health; scoping review; public health policy; pandemic response; Canada;
+   OECD countries
+ID IMMUNITY PASSPORTS; FRENCH; IMPACT
+AB Vaccine certificates were introduced during the COVID-19 pandemic to document vaccination status, promote uptake and enable safer reopening of society. While these policies supported public health efforts, their implementation raised operational, ethical and legal concerns, sparking debate about their future use in health emergencies. We conducted a scoping review to synthesize the implementation processes, challenges and outcomes of vaccine certificate systems in Canada and other OECD countries. An academic search was conducted in August 2024, across Ovid MEDLINE, Embase and Scopus using controlled vocabulary and key words for sources published from 2020 onward. Grey literature was searched using Google and targeted government and organizational websites. Data were synthesized descriptively and analyzed deductively based on three pre-identified themes - public health, technological, and ethical-legal considerations - derived from the UK Royal Society's framework on COVID-19 vaccine certificate design. The search captured 128 sources (72 academic and 56 gray literature), covering all OECD countries except Chile, Colombia, Costa Rica, Mexico and Norway. Identified subthemes included: (1) purpose and trade-offs; (2) public health, socio-economic and health system impacts, (3) technological infrastructure and data security; (4) equity and accessibility; (5) privacy and surveillance; and (6) public acceptance and trust. Vaccine certificates aimed to support public health goals but posed challenges in digital implementation, particularly in creating secure and interoperable systems and raised concerns around equity, discrimination and privacy. Vaccine certificates show promise for future public health use. However, their success will depend on addressing ethical concerns, ensuring interoperability and strengthening digital infrastructure, regulations and public trust.
+C1 [Nilormi, Adhiba; Bensimon, Cecile M.; Wilson, Kumanan] Bruyere Hlth, Bruyere Hlth Res Inst, Ottawa, ON, Canada.
+   [Bensimon, Cecile M.] Univ Ottawa, Fac Hlth Sci, Ottawa, ON, Canada.
+   [Thomas, Maya; Wiles, Slater; Wilson, Kumanan] Ottawa Hosp Res Inst, Clin Epidemiol Program, Ottawa, ON, Canada.
+   [Wilson, Kumanan] Univ Ottawa, Sch Epidemiol & Publ Hlth, Ottawa, ON, Canada.
+   [Wilson, Kumanan] Univ Ottawa, Dept Med, Ottawa, ON, Canada.
+C3 University of Ottawa; University of Ottawa; Ottawa Hospital Research
+   Institute; University of Ottawa; University of Ottawa
+RP Wilson, K (通讯作者)，Ottawa Hosp, Civ Campus, Adm Serv Bldg,1053 Carling Ave,Box 684, Ottawa, ON K1Y 4E9, Canada.
+EM kwilson@ohri.ca
+OI Nilormi, Adhiba/0009-0009-3196-4033; Bensimon,
+   Cécile/0009-0003-6699-9080; Wilson, Kumanan/0000-0002-1741-7705
+FU Canadian Institutes of Health Research [FO3-184636]
+FX This work was supported by the Canadian Institutes of Health Research
+   under Grant number [FO3-184636].
+CR Anato Jorge Luis Flores, 2023, CMAJ Open, V11, pE995, DOI [10.9778/cmajo.20220242, 10.9778/cmajo.20220242]
+   Aranzales I, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-93148-1
+   Araujo-Chaveron L, 2023, VACCINE, V41, P5412, DOI 10.1016/j.vaccine.2023.07.002
+   Arksey H., 2005, International Journal of Social Research Methodology, V8, P19, DOI DOI 10.1080/1364557032000119616
+   Augsberg S., 2023, PANDEMICS ETHICS, V1st, P147
+   Bardosh K, 2022, BMJ GLOB HEALTH, V7, DOI 10.1136/bmjgh-2022-008684
+   Barello S, 2022, HEALTH EXPECT, V25, P2645, DOI 10.1111/hex.13589
+   Brown RCH, 2021, LANCET INFECT DIS, V21, pE58, DOI 10.1016/S1473-3099(20)30766-0
+   Campanozzi LL, 2022, VACCINES-BASEL, V10, DOI 10.3390/vaccines10091483
+   Canning AG, 2022, J RES HEALTH SCI, V22, DOI 10.34172/jrhs.2022.81
+   Cao H, 2024, SCI REP-UK, V14, DOI 10.1038/s41598-023-50421-9
+   Chamon Q, 2022, J COMMUN HEALTH, V47, P666, DOI 10.1007/s10900-022-01092-6
+   Chebli A, 2022, WORLD LEISURE J, V64, P585, DOI 10.1080/16078055.2022.2125571
+   Christie B, 2021, BMJ-BRIT MED J, V374, DOI 10.1136/bmj.n2229
+   Coelho GLD, 2024, CURR PSYCHOL, V43, P16746, DOI 10.1007/s12144-023-04554-9
+   Cohn E, 2022, LANCET PUBLIC HEALTH, V7, pE754, DOI 10.1016/S2468-2667(22)00196-7
+   Convertini VN, 2024, LECT NOTE NETW SYST, V802, P371, DOI 10.1007/978-3-031-45651-0_37
+   da Silva JB Junior, 2024, JMIR PUBLIC HLTH SUR, V10, DOI 10.2196/65740
+   De Andrés-Sánchez J, 2022, BEHAV SCI-BASEL, V12, DOI 10.3390/bs12050140
+   Dye C, 2021, SCIENCE, V371, P1184, DOI 10.1126/science.abi5245
+   Dzurenda P, 2023, APPL SCI-BASEL, V13, DOI 10.3390/app131910986
+   European Commission, 2023, EU DIGITAL COVID CER
+   Fitzpatrick T, 2023, HEALTH AFFAIR, V42, P1595, DOI 10.1377/hlthaff.2022.01237
+   Godin K, 2015, SYST REV-LONDON, V4, DOI 10.1186/s13643-015-0125-0
+   Gostin LO, 2021, JAMA-J AM MED ASSOC, V325, P1933, DOI 10.1001/jama.2021.5283
+   Government of Iceland, 2021, COVID 19 DIGITAL VAC
+   Government of Saskatchewan, 2021, PROOF VACCINATION NE
+   Greely HT, 2020, J LAW BIOSCI, V7, DOI 10.1093/jlb/lsaa035
+   Greyson D, 2023, DIGIT HEALTH, V9, DOI 10.1177/20552076231203924
+   Hall MA, 2021, NEW ENGL J MED, V385, DOI 10.1056/NEJMp2104289
+   Herbert F., 2022, P 18 S US PRIV SEC, P482
+   Kalus D., 2022, WORLDCRUNCH
+   Kamin-Friedman S, 2021, ISR J HEALTH POLICY, V10, DOI 10.1186/s13584-021-00496-4
+   King J., 2021, CONSTITUTIONAL ETHIC
+   Kofler N, 2020, NATURE, V581, P379, DOI 10.1038/d41586-020-01451-0
+   Krause PR, 2021, NEW ENGL J MED, V385, P179, DOI 10.1056/NEJMsr2105280
+   Kubo Y, 2022, HUM SOC SCI COMMUN, V9, DOI 10.1057/s41599-022-01324-z
+   KYODO NEWS, 2021, JAPAN LAUNCHES COVID
+   Longani K., 2021, NYC COUNSEL MAYOR, V1, P10
+   Lopez-Gueell K, 2023, FRONT PUBLIC HEALTH, V11, DOI 10.3389/fpubh.2023.1019223
+   Luster T, 2021, EUR J RISK REGUL, V12, P308, DOI 10.1017/err.2021.36
+   Marelli L, 2023, SCI CULT-UK, V32, P505, DOI 10.1080/09505431.2023.2211761
+   Mills MC, 2022, LANCET PUBLIC HEALTH, V7, pE15, DOI 10.1016/S2468-2667(21)00273-5
+   Mithani SS, 2022, HUM VACC IMMUNOTHER, V18, DOI 10.1080/21645515.2021.1969849
+   Mohammed I, 2022, HUM VACC IMMUNOTHER, V18, DOI 10.1080/21645515.2022.2027160
+   Mongin D, 2023, VACCINES-BASEL, V11, DOI 10.3390/vaccines11071149
+   Morley J, 2020, NATURE, V582, P29, DOI 10.1038/d41586-020-01578-0
+   Nurgalieva L, 2022, PROCEEDINGS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI' 22), DOI 10.1145/3491102.3502066
+   Oliu-Barton M, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-022-31394-1
+   Oliva C, 2024, FRONT PUBLIC HEALTH, V12, DOI 10.3389/fpubh.2024.1345119
+   Peters MDJ, 2015, INT J EVID-BASED HEA, V13, P141, DOI 10.1097/XEB.0000000000000050
+   Phelan AL, 2020, LANCET, V395, P1595, DOI 10.1016/S0140-6736(20)31034-5
+   Praneviciene B., 2023, LAWYER Q, V13, P113
+   Fernández RR, 2022, REV CATALANA DRET PU, P179, DOI 10.2436/rcdp.i65.2022.3777
+   Rosen B, 2024, ISR J HEALTH POLICY, V13, DOI 10.1186/s13584-024-00596-x
+   Santolini R, 2023, J POLICY MODEL, V45, P1036, DOI 10.1016/j.jpolmod.2023.06.005
+   Schultz É, 2022, PUBLIC HEALTH, V206, P5, DOI 10.1016/j.puhe.2022.02.009
+   Settembri P, 2024, EUR J RISK REGUL, V15, P386, DOI 10.1017/err.2023.7
+   Sheth D, 2024, J FORENSIC SCI, V69, P593, DOI 10.1111/1556-4029.15425
+   Smith D, 2023, HUM VACC IMMUNOTHER, V19, DOI 10.1080/21645515.2023.2220628
+   Spitale G, 2022, J MED INTERNET RES, V24, DOI 10.2196/34385
+   Stankunas M, 2022, J INFECTION, V85, P342, DOI 10.1016/j.jinf.2022.05.039
+   Stead M, 2022, VACCINE, V40, P7389, DOI 10.1016/j.vaccine.2022.05.072
+   Talic S, 2021, BMJ-BRIT MED J, V375, DOI 10.1136/bmj-2021-068302
+   The Royal Society, 2021, 12 CRITERIA DEV USE
+   Vergallo GM, 2022, EUR REV MED PHARMACO, V26, P643, DOI 10.26355/eurrev_202201_27891
+   Voo TC, 2021, B WORLD HEALTH ORGAN, V99, P155, DOI 10.2471/BLT.20.280701
+   Waitzberg R, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph182111212
+   Walkowiak MP, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9121498
+   Wang BH, 2022, HEALTH POLICY, V126, P755, DOI 10.1016/j.healthpol.2022.05.016
+   Ward JK, 2022, NAT MED, V28, P232, DOI 10.1038/s41591-021-01661-7
+   Wilf-Miron R, 2021, JAMA-J AM MED ASSOC, V325, P1503, DOI 10.1001/jama.2021.4300
+   Wilson K., 2024, Pandemics, public health, and the regulation of borders, P192, DOI [10.4324/9781003394006-22, DOI 10.4324/9781003394006-22]
+   Wilson K, 2021, CAN MED ASSOC J, V193, pE486, DOI 10.1503/cmaj.210244
+   Zhu DT, 2024, ARCH PUBLIC HEALTH, V82, DOI 10.1186/s13690-024-01259-8
+NR 75
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 2164-5515
+EI 2164-554X
+J9 HUM VACC IMMUNOTHER
+JI Human Vaccines Immunother.
+PD DEC 31
+PY 2026
+VL 22
+IS 1
+AR 2622178
+DI 10.1080/21645515.2026.2622178
+PG 15
+WC Biotechnology & Applied Microbiology; Immunology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biotechnology & Applied Microbiology; Immunology
+GA DZ6HF
+UT WOS:001695857200001
+PM 41719449
+OA Green Submitted, Green Accepted, gold
+DA 2026-03-11
+ER
+
+PT J
+AU Liang, YJ
+   Cao, CW
+   Dai, LH
+   Xu, F
+   Pan, XD
+   Chen, QZ
+   Xu, QH
+   Song, XP
+AF Liang, Yajing
+   Cao, Chongwei
+   Dai, Linghua
+   Xu, Fen
+   Pan, Xiaodan
+   Chen, Qizhen
+   Xu, Qinhong
+   Song, Xiaoping
+TI Gender disparities in the synergistic impact of high sugar intake and
+   depression on COPD: evidence from multidisciplinary data integration
+SO CRITICAL PUBLIC HEALTH
+LA English
+DT Article
+DE Chronic obstructive pulmonary disease; sugar intake; depression; global
+   burden of disease; Mendelian randomization
+ID OBSTRUCTIVE PULMONARY-DISEASE; MENDELIAN RANDOMIZATION; INFLAMMATION;
+   STRESS; RISK
+AB To evaluate the gender-associated impact between dietary sugar intake and depression on chronic obstructive pulmonary disease (COPD), this study investigates the interplay between high sugar intake, depression, and COPD risk. Using data from the Global Health Data Exchange (1990-2021) and the US NHANES survey (2011-2017), the study demonstrates that the global years-lived-with-disability burden of COPD is substantial and increasing, particularly among females. Analyses confirm that both high sugar intake and depression serve as independent risk factors for COPD, with a significant positive synergistic interaction accounting for approximately 30% of the total COPD risk model. A gender difference was observed, with women exhibiting a stronger interaction effect compared to men. In addition, Mendelian randomization (MR) analysis established a unidirectional causal relationship, indicating that both sugar intake and depression can causally increase the risk of COPD, with depression presenting a larger effect size. These findings highlight the importance of dietary regulation and mental health management in COPD prevention and care, particularly among female populations.
+C1 [Liang, Yajing; Pan, Xiaodan; Chen, Qizhen] Ningbo Univ, Affiliated Hosp 1, Dept Resp Intens Care Unit, Ningbo, Peoples R China.
+   [Cao, Chongwei; Song, Xiaoping] Tongji Univ, Putuo Peoples Hosp, Sch Med, Dept Neurosurg, Shanghai, Peoples R China.
+   [Dai, Linghua] Ningbo Univ, Affiliated Hosp 1, Dept Gynecol, Ningbo, Peoples R China.
+   [Xu, Fen] Ningbo Univ, Dept Operating Room, Affiliated Hosp 1, Ningbo, Peoples R China.
+   [Xu, Qinhong; Song, Xiaoping] Ningbo Univ, Affiliated Hosp 1, Dept Nursing, Ningbo, Peoples R China.
+C3 Ningbo University; Tongji University; Ningbo University; Ningbo
+   University; Ningbo University
+RP Liang, YJ (通讯作者)，Ningbo Univ, Affiliated Hosp 1, Dept Resp Intens Care Unit, Ningbo, Peoples R China.; Song, XP (通讯作者)，Tongji Univ, Putuo Peoples Hosp, Sch Med, Dept Neurosurg, Shanghai, Peoples R China.
+EM 17857441253@163.com; 13486087019@163.com
+OI Liang, Yajing/0009-0005-9238-7453
+FU Ningbo Public Welfare Project [2023S039]
+FX This research was funded by the Ningbo Public Welfare Project-The
+   construction and application of an intelligent chronic disease
+   management system with hospital community family linkage from the
+   perspective of whole cycle health (Project number: 2023S039), and the
+   construction of a multimodal risk model for elderly muscle atrophy and
+   expansion of practical techniques for intervention research (Project
+   number: 2023S051).
+CR [Anonymous], 2024, Lancet, V403, P2133, DOI [10.1016/s0140-6736(24)00757-8, DOI 10.1016/S0140-6736(24)00757-8]
+   Attaway AH, 2023, J CACHEXIA SARCOPENI, V14, P1083, DOI 10.1002/jcsm.13198
+   Barnes PJ, 2016, J ALLERGY CLIN IMMUN, V138, P16, DOI 10.1016/j.jaci.2016.05.011
+   Booth H, 2002, POP STUD-J DEMOG, V56, P325, DOI 10.1080/00324720215935
+   Bowden J, 2015, INT J EPIDEMIOL, V44, P512, DOI 10.1093/ije/dyv080
+   Burgess S, 2017, EUR J EPIDEMIOL, V32, P377, DOI 10.1007/s10654-017-0255-x
+   Castrén E, 2021, BIOL PSYCHIAT, V90, P128, DOI 10.1016/j.biopsych.2021.05.008
+   Christenson SA, 2022, LANCET, V399, P2227, DOI 10.1016/S0140-6736(22)00470-6
+   Cohen LS, 2005, AM J MED, V118, P1408, DOI 10.1016/j.amjmed.2005.10.018
+   Collins KH, 2016, SCI REP-UK, V6, DOI 10.1038/srep37278
+   Corlateanu A, 2025, HEALTHCARE-BASEL, V13, DOI 10.3390/healthcare13141699
+   Dakanalis A, 2023, NUTRIENTS, V15, DOI 10.3390/nu15051173
+   De Paoli M, 2021, AM J PATHOL, V191, P1490, DOI 10.1016/j.ajpath.2021.05.011
+   de Queiroz KB, 2022, MOL BIOL REP, V49, P8173, DOI 10.1007/s11033-022-07473-3
+   Dean J, 2017, ASIAN J PSYCHIATR, V27, P101, DOI 10.1016/j.ajp.2017.01.025
+   Dinparast F, 2021, BMC PULM MED, V21, DOI 10.1186/s12890-020-01383-5
+   Do MH, 2018, NUTRIENTS, V10, DOI 10.3390/nu10060761
+   Dua R, 2024, CUREUS J MED SCIENCE, V16, DOI 10.7759/cureus.56060
+   Thanarajah SE, 2025, JAMA PSYCHIAT, V82, P1095, DOI 10.1001/jamapsychiatry.2025.2579
+   Fernandes BS, 2022, NEUROSCI BIOBEHAV R, V139, DOI 10.1016/j.neubiorev.2022.104758
+   Güzeldere HKB, 2024, BMC WOMENS HEALTH, V24, DOI 10.1186/s12905-024-03235-4
+   Hantsoo L, 2023, FRONT ENDOCRINOL, V14, DOI 10.3389/fendo.2023.1295261
+   Hernández-Díazcouder A, 2022, NUTRIENTS, V14, DOI 10.3390/nu14194089
+   HOSMER DW, 1992, EPIDEMIOLOGY, V3, P452, DOI 10.1097/00001648-199209000-00012
+   Huang K, 2021, INT J CHRONIC OBSTR, V16, P3387, DOI 10.2147/COPD.S328617
+   Judd FK, 2012, J AFFECT DISORDERS, V136, P199, DOI 10.1016/j.jad.2010.12.010
+   Kakkera K, 2018, CURR OPIN PULM MED, V24, P173, DOI 10.1097/MCP.0000000000000458
+   Klenowski PM, 2023, SCI ADV, V9, DOI 10.1126/sciadv.adh9620
+   Knol MJ, 2012, INT J EPIDEMIOL, V41, P514, DOI 10.1093/ije/dyr218
+   Labaki WW, 2023, AM J RESP CRIT CARE, V208, P451, DOI 10.1164/rccm.202210-1887OC
+   Lahouel A, 2024, METAB BRAIN DIS, V39, P731, DOI 10.1007/s11011-024-01352-5
+   Li P, 2023, FRONT PUBLIC HEALTH, V10, DOI 10.3389/fpubh.2022.1069162
+   Li SC, 2024, AM J CLIN NUTR, V120, P707, DOI 10.1016/j.ajcnut.2024.07.001
+   Liu A, 2024, J AFFECT DISORDERS, V351, P782, DOI 10.1016/j.jad.2024.02.022
+   Marsh WK, 2009, J PSYCHIATR RES, V43, P798, DOI 10.1016/j.jpsychires.2008.11.003
+   Martucci VL, 2021, HUM MOL GENET, V30, P619, DOI 10.1093/hmg/ddab068
+   Murgia N, 2022, RESPIROLOGY, V27, P399, DOI 10.1111/resp.14272
+   Noll PRES, 2021, CLIMACTERIC, V24, P128, DOI 10.1080/13697137.2020.1828854
+   O'Toole J, 2022, ANN AM THORAC SOC, V19, P171, DOI 10.1513/AnnalsATS.202009-1187OC
+   Pollok J, 2018, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD012346.pub2
+   Pooler A, 2014, INT J CHRONIC OBSTR, V9, P315, DOI 10.2147/COPD.S53255
+   Qian Y, 2023, INT J CHRONIC OBSTR, V18, P2707, DOI 10.2147/COPD.S433183
+   Ran B, 2023, EXPERT REV RESP MED, V17, P1061, DOI 10.1080/17476348.2023.2282022
+   Rey-Brandariz J, 2023, ARCH BRONCONEUMOL, V59, P717, DOI 10.1016/j.arbres.2023.07.009
+   Ritchie AI, 2020, CLIN CHEST MED, V41, P421, DOI 10.1016/j.ccm.2020.06.007
+   Romero Y, 2016, AGING CELL, V15, P1103, DOI 10.1111/acel.12514
+   Satokari R, 2020, NUTRIENTS, V12, DOI 10.3390/nu12051348
+   Sin DD, 2023, EUR RESPIR J, V61, DOI 10.1183/13993003.02469-2022
+   Slavich GM, 2014, PSYCHOL BULL, V140, P774, DOI 10.1037/a0035302
+   Snigdha S, 2022, PHARMACOL THERAPEUT, V231, DOI 10.1016/j.pharmthera.2021.107978
+   Sorbye SH, 2014, SPAT STAT-NETH, V8, P39, DOI 10.1016/j.spasta.2013.06.004
+   Stanhope KL, 2016, CRIT REV CL LAB SCI, V53, P52, DOI 10.3109/10408363.2015.1084990
+   Sun TY, 2024, COPD, V21, DOI 10.1080/15412555.2024.2309236
+   van Manen JG, 2002, THORAX, V57, P412, DOI 10.1136/thorax.57.5.412
+   Vivian-Taylor J, 2014, MATURITAS, V79, P142, DOI 10.1016/j.maturitas.2014.05.014
+   Weiner SP, 2024, PHYSIOL BEHAV, V284, DOI 10.1016/j.physbeh.2024.114647
+   Wiegman CH, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.01957
+   Wiegman CH, 2015, J ALLERGY CLIN IMMUN, V136, P769, DOI 10.1016/j.jaci.2015.01.046
+   Wilson Ian, 2006, Int J Chron Obstruct Pulmon Dis, V1, P61, DOI 10.2147/copd.2006.1.1.61
+   Xie HM, 2023, J PSYCHOSOM RES, V175, DOI 10.1016/j.jpsychores.2023.111537
+   Yanovski S, 2003, J NUTR, V133, p835S, DOI 10.1093/jn/133.3.835S
+   Yayan J, 2023, RESP PHYSIOL NEUROBI, V315, DOI 10.1016/j.resp.2023.104110
+   Zhang L, 2024, BMC PSYCHIATRY, V24, DOI 10.1186/s12888-024-05531-7
+   Zhao XT, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-18334-7
+NR 64
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0958-1596
+EI 1469-3682
+J9 CRIT PUBLIC HEALTH
+JI Crit. Public Heath
+PD DEC 31
+PY 2026
+VL 36
+IS 1
+AR 2624884
+DI 10.1080/09581596.2026.2624884
+PG 17
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA DN4TK
+UT WOS:001687603500001
+OA gold
+DA 2026-03-11
+ER
+
+PT J
+AU Green, H
+   Beilby, J
+   Degeling, C
+   Adams, C
+   Flack, F
+   Carolan, L
+   Fabrianesi, B
+   Brown, A
+   Aguirre, AN
+   Clarke, A
+   Jung, CS
+   Braunack-Mayer, A
+AF Green, Heidi
+   Beilby, Justin
+   Degeling, Chris
+   Adams, Carolyn
+   Flack, Felicity
+   Carolan, Lucy
+   Fabrianesi, Belinda
+   Brown, Anthony
+   Aguirre, Alberto Nettel
+   Clarke, Allison
+   Jung, Christian
+   Braunack-Mayer, Annette
+TI Towards best practice recommendations: Perspectives from Australian GPs
+   to inform the use of general practice data for research - A modified
+   Delphi study
+SO EUROPEAN JOURNAL OF GENERAL PRACTICE
+LA English
+DT Article
+DE Delphi; data sharing; general practice; general practitioner; secondary
+   data use
+ID CARE; PRACTITIONERS
+AB BackgroundGeneral practice medical records offer significant potential for secondary use in research, policy and public health. In Australia, these data remain underused due to concerns around privacy, governance and ethical use. Understanding the perspectives of GPs is essential to developing best practice recommendations for responsible data use.MethodA three-round modified Delphi study was conducted with 22 Australian GPs with experience in research and/or data sharing. Participants rated and commented on 11 recommendations derived from community juries, with consensus defined as >= 75% agreement. Feedback summaries and thematic analysis informed subsequent rounds.ResultsConsensus was reached on 10 of 11 recommendations. The panel supported ethical approval, transparency, protection of the doctor-patient relationship and remuneration for practices contributing data. An opt-out approach to consent was endorsed under strict conditions, with clear distinctions made between vulnerable and non-vulnerable populations. The panel also supported the establishment of a governance body and researcher cybersecurity training. However, no consensus was reached on community involvement in research design, despite its growing recognition as best practice by funding bodies.ConclusionThis study highlights the need for a nationally agreed remuneration model for general practices that contribute data, clearer ethical guidance for engaging vulnerable populations and reform of statutory frameworks to support responsible data use. The lack of consensus on community involvement is concerning, especially as initiatives such as the Australian Institute of Health and Welfare (AIHW) and Primary Health Networks (PHN) partnership advance national data standards. Bridging this gap is essential to align professional practice with public expectations and ensure inclusive, ethically robust research.
+C1 [Green, Heidi; Beilby, Justin; Degeling, Chris; Carolan, Lucy; Fabrianesi, Belinda; Brown, Anthony; Aguirre, Alberto Nettel; Braunack-Mayer, Annette] Univ Wollongong, Australian Ctr Hlth Engagement Evidence & Values, Sch Social Sci, Wollongong, NSW, Australia.
+   [Beilby, Justin] Torrens Univ, Adelaide, SA, Australia.
+   [Adams, Carolyn] Macquarie Univ, Macquarie Law Sch, Sydney, NSW, Australia.
+   [Flack, Felicity] Univ Western Australia, Populat Hlth Res Network, Crawley, WA, Australia.
+   [Brown, Anthony] Hlth Consumers NSW, Sydney, NSW, Australia.
+   [Clarke, Allison] Australian Govt Dept Hlth & Aged Care, Data & Analyt Branch, Canberra, ACT, Australia.
+   [Jung, Christian] Australian Govt Dept Hlth & Aged Care, Primary Care Strategy Branch, Melbourne, Vic, Australia.
+C3 University of Wollongong; Torrens University Australia; Macquarie
+   University; Population Health Research Network (PHRN); University of
+   Western Australia
+RP Green, H (通讯作者)，Univ Wollongong, Australian Ctr Hlth Engagement Evidence & Values, Sch Social Sci, Wollongong, NSW, Australia.
+EM hgreen@uow.edu.au
+RI Nettel-Aguirre, Alberto/ABB-9412-2021; Degeling, Chris/ABE-2049-2020;
+   Green, Heidi/HPE-3291-2023; Beilby, Justin/M-5147-2019
+OI Nettel-Aguirre, Alberto/0000-0001-6604-0652; Flack,
+   Felicity/0000-0003-4407-3562; Degeling, Chris/0000-0003-4279-3443;
+   Green, Heidi/0000-0002-7908-3819; 
+FU Australian Commonwealth's Cooperative Research Centres (CRC) Program;
+   Health Consumers NSW; University of Wollongong; Digital Health CRC
+   Limited ('DHCRC') [0-217]; Macquarie University; Australian Government
+   National Collaborative Research Infrastructure Strategy; Department of
+   Health and Aged Care; Population Health Research Network (PHRN)
+FX This project is supported by Population Health Research Network (PHRN),
+   Department of Health and Aged Care, Health Consumers NSW, Macquarie
+   University, University of Wollongong and Digital Health CRC Limited
+   ('DHCRC') (0-217). DHCRC is funded under the Australian Commonwealth's
+   Cooperative Research Centres (CRC) Program. PHRN is a capability of the
+   Australian Government National Collaborative Research Infrastructure
+   Strategy.
+CR Adams C, 2025, J LAW MED, V31
+   Australian Bureau of Statistics, 2023, Patient experiences Australia
+   Australian Government Department of the Prime Minister and Cabinet, 2018, The Australian Government's response to the productivity commission data availability and use inquiry
+   Australian Research Council, 2023, National statement on ethical conduct in human research 2023
+   Ballantyne A, 2020, J MED ETHICS, V46, P289, DOI 10.1136/medethics-2018-105340
+   Braunack-Mayer AJ, 2025, INT J POPUL DATA SCI, V10, DOI [10.23889/ijpds.v10i1.2469, 10.23889/ijpds.v10i1.2469]
+   Canaway R, 2019, MED J AUSTRALIA, V210, pS12, DOI 10.5694/mja2.50026
+   Cheah R, 2024, AUST J GEN PRACT, V53, P408, DOI 10.31128/AJGP-07-23-6887
+   Combrinck C, 2024, SAGE OPEN, V14, DOI 10.1177/21582440241295501
+   Edwards L, 2023, BJGP OPEN, V7, DOI 10.3399/BJGPO.2023.0057
+   Finnikin S, 2017, BRIT J GEN PRACT, V67, pE881, DOI 10.3399/bjgp17X693485
+   Grant S., 2023, RAND methodological guidance for conducting and critically appraising Delphi panels
+   Hodgkins AJ, 2020, AUST J GEN PRACT, V49, P145, DOI 10.31128/AJGP-07-19-5024
+   Hodgkins AJ, 2018, HEALTH INF MANAG J, V47, P6, DOI 10.1177/1833358316687090
+   Horn R, 2020, BMC MED ETHICS, V21, DOI 10.1186/s12910-020-00553-8
+   Joshi A, 2025, BMC PRIM CARE, V26, DOI 10.1186/s12875-025-02808-y
+   Kessissoglou IA, 2024, EUR J PUBLIC HEALTH, V34, P1102, DOI 10.1093/eurpub/ckae160
+   Kumarasamy V, 2024, JMIR FORM RES, V8, DOI 10.2196/51530
+   Majka M., 2024, The Delphi methodology
+   Meszaros J, 2019, Medical Law International, V19, P159, DOI [10.1177/0968533219879975, DOI 10.1177/0968533219879975, 10.1177/0968533219879975]
+   Nasa Prashant, 2021, World J Methodol, V11, P116, DOI [10.5662/wjm.v11.i4.116, 10.5662/wjm.v11.i4.116]
+   Neves AL, 2019, J MED INTERNET RES, V21, DOI 10.2196/14135
+   Petherick ES, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058948
+   Petrova M, 2017, INT J MED INFORM, V104, P74, DOI 10.1016/j.ijmedinf.2017.05.009
+   Price WN, 2019, NAT MED, V25, P37, DOI 10.1038/s41591-018-0272-7
+   Redhead CAB, 2024, MED LAW REV, V33, DOI 10.1093/medlaw/fwae043
+   Ridge D, 2023, HEALTH EXPECT, V26, P941, DOI 10.1111/hex.13724
+   Rodwell J, 2013, BMC HEALTH SERV RES, V13, DOI 10.1186/1472-6963-13-130
+   Sharma P, 2024, BMC HEALTH SERV RES, V24, DOI 10.1186/s12913-024-11166-x
+   Spencer K, 2016, J MED INTERNET RES, V18, DOI 10.2196/jmir.5011
+   Staunton C, 2024, EUR J HUM GENET, V32, P498, DOI 10.1038/s41431-024-01543-9
+   Sterckx S, 2016, MED HEALTH CARE PHIL, V19, P177, DOI 10.1007/s11019-015-9661-6
+   Stockdale Jessica, 2018, Wellcome Open Res, V3, P6, DOI 10.12688/wellcomeopenres.13531.1
+   Tiffin N, 2019, BMJ GLOB HEALTH, V4, DOI 10.1136/bmjgh-2019-001395
+   Tu K, 2015, BMC MED INFORM DECIS, V15, DOI 10.1186/s12911-015-0195-x
+   van den Dungen C, 2013, FAM PRACT, V30, P355, DOI 10.1093/fampra/cms082
+   Varhol RJ, 2022, BMC PRIM CARE, V23, DOI 10.1186/s12875-022-01759-y
+   Wyatt D, 2018, BMJ OPEN, V8, DOI 10.1136/bmjopen-2017-019378
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1381-4788
+EI 1751-1402
+J9 EUR J GEN PRACT
+JI Eur. J. Gen. Pract.
+PD DEC 31
+PY 2026
+VL 32
+IS 1
+AR 2601396
+DI 10.1080/13814788.2025.2601396
+PG 11
+WC Primary Health Care; Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AV7FD
+UT WOS:001657893800001
+PM 41511392
+OA Green Submitted, Green Accepted, gold
+DA 2026-03-11
+ER
+
+PT J
+AU Fan, ZQ
+   Chen, Q
+   Lu, W
+   Yao, Z
+   Yang, SJ
+   Zhao, HT
+   Cao, H
+AF Fan, Zhiqiang
+   Chen, Qian
+   Lu, Wang
+   Yao, Zhu
+   Yang, Shijie
+   Zhao, Hongting
+   Cao, Hua
+TI Collaborative artificial intelligence for the diagnosis and management
+   of acute ischemic stroke
+SO ANNALS OF MEDICINE
+LA English
+DT Review
+DE Acute ischemic stroke; artificial intelligence; trustworthy healthcare;
+   deep learning; federated learning
+ID PRIVACY
+AB BackgroundAcute Ischemic Stroke (AIS) remains a critical global health challenge that requires continuous improvement in diagnostic strategies. Timely and accurate diagnosis is essential for effective reperfusion therapies such as intravenous thrombolysis and mechanical thrombectomy, whose clinical benefits rapidly diminish with treatment delays. Artificial Intelligence (AI) offers promising potential to enhance diagnostic accuracy and clinical decision-making in AIS. However, data fragmentation and strict privacy regulations limit the development of robust AI systems. Objectives: We aim to provide a perspective-style review that explores how collaborative AI can reshape AIS diagnostics by overcoming data access barriers, fostering cross-institutional model development, and improving diagnostic equity.MethodsWe analysed current challenges in developing AIS-related AI tools, particularly the limitations caused by restricted data sharing across healthcare institutions. The study highlights collaborative AI approaches, such as federated learning and privacy-preserving computation, which enable decentralised model training while maintaining patient confidentiality. Relevant literature and recent developments in clinical AI collaboration were reviewed.ResultsCollaborative AI enables multiple institutions to contribute to model training without exposing raw patient data. This approach improves data diversity, model generalizability, and fairness across healthcare settings. Evidence from multi-centre studies suggests that collaborative AI frameworks can produce more accurate and ethically compliant diagnostic models compared to isolated development efforts.ConclusionsCollaborative AI presents a transformative pathway for AIS management by balancing data utility and privacy protection. It supports the creation of trustworthy, scalable, and inclusive diagnostic systems. As healthcare systems increasingly adopt digital solutions, collaborative AI provides a foundation for equitable and privacy-conscious innovation in stroke care.
+C1 [Fan, Zhiqiang; Zhao, Hongting; Cao, Hua] Gansu Prov Hosp TCM, Dept Cerebrovasc Dis, Lanzhou 730050, Peoples R China.
+   [Chen, Qian] Inst Comp Technol, Chinese Acad Sci, Res Ctr Ubiquitous Comp Syst, Beijing 100190, Peoples R China.
+   [Lu, Wang] Tsinghua Univ, Dept Automat, Beijing, Peoples R China.
+   [Yao, Zhu] Zhejiang Univ, Coll Biomed Engn & Instrument Sci, Hangzhou, Peoples R China.
+   [Yang, Shijie] Lanzhou Univ, Clin Med Coll 1, Lanzhou, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Computing Technology, CAS;
+   Tsinghua University; Zhejiang University; Lanzhou University
+RP Cao, H (通讯作者)，Gansu Prov Hosp TCM, Dept Cerebrovasc Dis, Lanzhou 730050, Peoples R China.; Chen, Q (通讯作者)，Inst Comp Technol, Chinese Acad Sci, Res Ctr Ubiquitous Comp Syst, Beijing 100190, Peoples R China.
+EM chenqian20b@ict.ac.cn; caohua308@163.com
+OI Chen, Qian/0009-0002-2579-4380
+FU National Traditional Chinese Medicine Specialty Construction Project;
+   Neurological Disorders Clinical Medical Center; Gansu Health Traditional
+   Chinese Medicine Letter
+FX This work was partially supported by the National Traditional Chinese
+   Medicine Specialty Construction Project, Neurological Disorders Clinical
+   Medical Center (Approval Document Number: Gansu Health Traditional
+   Chinese Medicine Letter [2023] No. 63.
+CR Act on the protection of personal information (Act No. 57 of 2003), 2003, JapaneseLawTranslation (Official English Translation)
+   Ahmad MA., 2020, FAIRNESS MACHINE LEA, P3529
+   Ai CS, 2025, CURR PROB SURG, V71, DOI 10.1016/j.cpsurg.2025.101865
+   Al Saiegh F, 2022, J NEUROIMAGING, V32, P798, DOI 10.1111/jon.13003
+   Ali M, 2023, IEEE J BIOMED HEALTH, V27, P778, DOI 10.1109/JBHI.2022.3181823
+   [Anonymous], 2012, Personal Data Protection Act 2012 (No. 26 of 2012)
+   Babakniya S., 2024, Advances in Neural Information Processing Systems, P36
+   Bui Q, 2024, NEUROCRIT CARE, V40, P303, DOI 10.1007/s12028-023-01742-0
+   Caton S, 2024, ACM COMPUT SURV, V56, DOI 10.1145/3616865
+   Chaddad A, 2023, IEEE-CAA J AUTOMATIC, V10, P859, DOI 10.1109/JAS.2023.123123
+   Chen Q., 2024, MODEL TRIP ENHANCING, P2231, DOI [10.1109/ICDE60146.2024.00177, DOI 10.1109/ICDE60146.2024.00177]
+   Chen Q, 2024, IEEE T KNOWL DATA EN, V36, P9051, DOI 10.1109/TKDE.2024.3430819
+   Chen RJ, 2023, NAT BIOMED ENG, V7, P719, DOI 10.1038/s41551-023-01056-8
+   Chen YQ, 2024, IEEE T NEUR NET LEAR, V35, P16671, DOI 10.1109/TNNLS.2023.3297103
+   Chen YQ, 2020, IEEE INTELL SYST, V35, P83, DOI 10.1109/MIS.2020.2988604
+   Chiang PL, 2022, J CLIN MED, V11, DOI 10.3390/jcm11175159
+   Cui J, 2023, IEEE T PARALL DISTR, V34, P2512, DOI 10.1109/TPDS.2023.3290650
+   Cui LY, 2022, BIOMED RES INT, V2022, DOI 10.1155/2022/2456550
+   Desai A, 2023, PLOS ONE, V18, DOI 10.1371/journal.pone.0280025
+   Nguyen DC, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3501296
+   Dong J., 2022, FEDERATED CLASS INCR, P10154, DOI [10.1109/CVPR52688.2022.00992, DOI 10.1109/CVPR52688.2022.00992]
+   Dwork C, 2006, LECT NOTES COMPUT SC, V4004, P486
+   Dwork C, 2013, FOUND TRENDS THEOR C, V9, P211, DOI 10.1561/0400000042
+   Elhanashi A, 2024, J REAL-TIME IMAGE PR, V21, DOI 10.1007/s11554-024-01500-1
+   Elsaid AF, 2022, FRONT NEUROL, V13, DOI 10.3389/fneur.2022.951401
+   Ezzeldin YH, 2023, AAAI CONF ARTIF INTE, P7494
+   Fan T, 2025, IEEE T AERO ELEC SYS, V61, P16080, DOI [10.1109/tkde.2025.3555328, 10.1109/TAES.2025.3596569, 10.1109/TKDE.2025.3555328]
+   FederatedAI, 2019, FATE: An Industrial Grade Federated Learning Framework
+   Feng B, 2024, NAT COMMUN, V15, DOI 10.1038/s41467-024-44946-4
+   Feng J, 2023, J MED INTERNET RES, V25, DOI 10.2196/44895
+   Foroushani HM, 2022, NEUROCRIT CARE, V36, P471, DOI 10.1007/s12028-021-01325-x
+   General Data Protection Regulation (GDPR), 2016, About us
+   Gentry C., 2009, A fully homomorphic encryption scheme
+   Google, 2019, TensorFlow Federated
+   Guan H, 2024, PATTERN RECOGN, V151, DOI 10.1016/j.patcog.2024.110424
+   [韩小伟 Han Xiaowei], 2021, [协和医学杂志, Medical Journal of Peking Union Medical College Hospital], V12, P749
+   Hatami N, 2022, IEEE ENG MED BIO, P3430, DOI 10.1109/EMBC48229.2022.9871735
+   He CY, 2020, Arxiv, DOI arXiv:2007.13518
+   Holzinger A., 2023, HUMAN IN THE LOOP IN, P45
+   Jiang M., 2023, FAIR FEDERATED MEDIC, P16302, DOI [10.1109/cvpr52729.2023.01564, DOI 10.1109/CVPR52729.2023.01564]
+   Jiang MR, 2022, AAAI CONF ARTIF INTE, P1087
+   Jolugbo P, 2021, STROKE, V52, P1131, DOI 10.1161/STROKEAHA.120.032810
+   Ju C., 2020, IJCAI 2020 FED LEARN
+   Kairouz P., 2021, FOUND TRENDS MACH LE, V14, P1, DOI [10.1561/2200000083, DOI 10.1561/2200000083]
+   Kaissis GA, 2020, NAT MACH INTELL, V2, P305, DOI 10.1038/s42256-020-0186-1
+   Kamal H, 2018, FRONT NEUROL, V9, DOI 10.3389/fneur.2018.00945
+   Kim J., 2025, Intelligence-Based Medicine, V12, DOI [10.1016/j.ibmed.2025.100283, DOI 10.1016/J.IBMED.2025.100283, 10.1016/J.IBMED.2025.100283]
+   Lai YL, 2022, MED BIOL ENG COMPUT, V60, P2841, DOI 10.1007/s11517-022-02636-7
+   Lee KY, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-27621-4
+   leginfo, 2018, California Consumer Privacy Act
+   Lei BY, 2023, IEEE T MED IMAGING, V42, P3651, DOI 10.1109/TMI.2023.3300725
+   Li M., 2025, PREPRINT
+   Li X., 2021, FEDBN FEDERATED LEAR
+   Li Y, 2025, P IEEE, V113, P370, DOI 10.1109/JPROC.2025.3596173
+   Li Z, 2022, IEEE INTERNET THINGS, V9, P17359, DOI 10.1109/JIOT.2022.3156046
+   Lindell Yehida., 2005, ENCY DATA WAREHOUSIN, P1005, DOI [10.4018/978-1-59140-557-3.ch189, DOI 10.4018/978-1-59140-557-3.CH189]
+   Liu CF, 2021, COMMUN MED-LONDON, V1, DOI 10.1038/s43856-021-00062-8
+   Lyu Lingjuan., 2020, Federated Learning:Privacy and Incentive, P189, DOI [DOI 10.1007/978-3-030-63076-814, 10.1007/978-3-030-63076-8_14]
+   Madrona A., 2023, FEDERATED LEARNING H, P1, DOI [10.1109/ISBI53787.2023.10230596, DOI 10.1109/ISBI53787.2023.10230596]
+   McMahan B., 2017, PR MACH LEARN RES, DOI DOI 10.48550/ARXIV.1602.05629
+   Mehrabi N, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3457607
+   Meng YC, 2022, BRAIN SCI, V12, DOI 10.3390/brainsci12070858
+   Mikhail P, 2020, J STROKE CEREBROVASC, V29, DOI 10.1016/j.jstrokecerebrovasdis.2020.104715
+   Mu JS, 2024, IEEE J BIOMED HEALTH, V28, P3206, DOI 10.1109/JBHI.2024.3375894
+   Muhammad BL., 2023, FEDERATED LEARNING C, P1, DOI [10.1109/ICMEAS58693.2023.10379272, DOI 10.1109/ICMEAS58693.2023.10379272]
+   Otalora S., 2022, WEIGHTING SCHEMES FE, P45
+   Pacchiano F, 2024, RADIOL MED, V129, P83, DOI 10.1007/s11547-023-01735-1
+   PaddlePaddle, 2019, PaddleFL: Federated Learning in PaddlePaddle
+   Personal information protection law of the people's republic of China (PIPL), 2021, Chairman's Order No. 91, Adopted 20 August 2021
+   Protani A, 2024, PR MACH LEARN RES, V285, P55
+   Qu YY, 2018, IEEE T COMPUT SOC SY, V5, P773, DOI 10.1109/TCSS.2018.2861775
+   Qureshi AI, 2025, J NEUROIMAGING, V35, DOI 10.1111/jon.70030
+   Rangel E, 2025, Arxiv, DOI [arXiv:2508.18296, DOI 10.48550/ARXIV.2508.18296]
+   Rieke N, 2020, NPJ DIGIT MED, V3, DOI 10.1038/s41746-020-00323-1
+   Roca V, 2025, Arxiv, DOI arXiv:2506.15626
+   Ruksakulpiwat S, 2023, J MULTIDISCIP HEALTH, V16, P2593, DOI 10.2147/JMDH.S421280
+   Ryffel T., 2021, A library for easy federated learning. in proceedings of the federated learning systems, P111
+   Savazzi S, 2021, IEEE COMMUN MAG, V59, P16, DOI 10.1109/MCOM.001.2000200
+   Saver JL, 2006, STROKE, V37, P263, DOI 10.1161/01.STR.0000196957.55928.ab
+   Schleiger E, 2024, APPL ARTIF INTELL, V38, DOI 10.1080/08839514.2024.2327890
+   Sharobeam A, 2020, FRONT NEUROL, V11, DOI 10.3389/fneur.2020.606521
+   Shenaj D., 2023, ASYNCHRONOUS FEDERAT, P5054
+   Sheth SA, 2023, J NEUROINTERV SURG, V15, P195, DOI 10.1136/neurintsurg-2021-018142
+   Sheth SA, 2019, STROKE, V50, P3093, DOI 10.1161/STROKEAHA.119.026189
+   Shi YX, 2023, IEEE INT CON MULTI, P324, DOI 10.1109/ICME55011.2023.00063
+   Tan Karel, 2023, 2023 International Seminar on Application for Technology of Information and Communication (iSemantic), P7, DOI 10.1109/iSemantic59612.2023.10295339
+   Truex S., 2019, HYBRID APPROACH PRIV, P1
+   Verclytte S, 2023, EUR RADIOL, V33, P3715, DOI 10.1007/s00330-023-09508-0
+   Victor N., 2023, FL PSO FEDERATED LEA, P33, DOI [10.1109/CCGridW59191.2023.00020, DOI 10.1109/CCGRIDW59191.2023.00020]
+   Vupputuri A, 2021, COMPUT BIOL MED, V136, DOI 10.1016/j.compbiomed.2021.104724
+   Vupputuri A, 2021, J NEUROSCI METH, V360, DOI 10.1016/j.jneumeth.2021.109260
+   Wang W, 2015, IEEE T COMPUT, V64, P698, DOI 10.1109/TC.2013.154
+   Wang WJ, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0234722
+   Xie YX, 2023, PROC VLDB ENDOW, V16, P1059, DOI 10.14778/3579075.3579081
+   Yan BJ, 2024, PATTERNS, V5, DOI 10.1016/j.patter.2024.100928
+   Yang P, 2023, LECT NOTES COMPUT SC, V14224, P558, DOI 10.1007/978-3-031-43904-9_54
+   Yang Q, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3298981
+   Yedavalli VS, 2021, CLIN IMAG, V69, P246, DOI 10.1016/j.clinimag.2020.09.005
+   Yeo M, 2021, J MED IMAG RADIAT ON, DOI 10.1111/1754-9485.13193
+   Yin XF, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3460427
+   Yuan X., 2022, CONVERGENCE FEDPROX
+   Zhang HY, 2021, COMPUT MED IMAG GRAP, V90, DOI 10.1016/j.compmedimag.2021.101926
+   Zhang LL, 2023, IEEE INTERNET THINGS, V10, P9622, DOI 10.1109/JIOT.2023.3234977
+   Zhang R., 2023, FEDERATED DOMAIN GEN, P3954
+   Zhang YC, 2024, AAAI CONF ARTIF INTE, P21788
+   Zhang YL, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P19, DOI [10.1109/SP.2017.12, 10.1145/3132747.3132768]
+   Zhu GM, 2020, NEUROIMAG CLIN N AM, V30, P479, DOI 10.1016/j.nic.2020.07.001
+   Zong Y., 2022, In The Eleventh International Conference on Learning Representations: ICLR 2023. The Eleventh International Conference on Learning Representations, Kigali, Rwanda
+NR 108
+TC 0
+Z9 0
+U1 4
+U2 4
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0785-3890
+EI 1365-2060
+J9 ANN MED
+JI Ann. Med.
+PD DEC 31
+PY 2026
+VL 58
+IS 1
+AR 2594356
+DI 10.1080/07853890.2025.2594356
+PG 20
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AK8QY
+UT WOS:001650523200001
+PM 41457873
+OA Green Submitted, Green Accepted, gold
+DA 2026-03-11
+ER
+
+PT J
+AU Gao, Y
+   Yiu, TW
+   Shen, XS
+   Tam, VWY
+AF Gao, Yu
+   Yiu, Tak Wing
+   Shen, Xuesong
+   Tam, Vivian W. Y.
+TI Large language models in smart construction: a systematic review of
+   implementation strategies, applications and future directions
+SO ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+LA English
+DT Review
+DE Large language models (LLMs); Smart construction; Construction
+   management; Systematic review
+AB Purpose With accelerating advances in artificial intelligence (AI) and digital transformation, the construction domain is rapidly adopting large language models (LLMs) to improve efficiency, safety and sustainability. However, a comprehensive understanding of their applications, adaptation strategies and evaluation practices in this domain remains limited. This paper provides a systematic landscape of LLM research and applications in construction, clarifying their roles, integration pathways and associated challenges. Design/methodology/approach A systematic review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guideline, combining bibliometric and content analysis of publications from 2020 to 2025. The review examines the evolution, implementation strategies and performance characteristics of LLMs in construction domains. Findings LLMs have been increasingly implemented across diverse construction tasks. Most studies utilize pretrained models, adapted through fine-tuning, retrieval-augmented generation or prompt engineering. While LLMs demonstrate strong reasoning and semantic understanding capabilities, challenges persist in domain adaptation, hallucination control, data privacy and lifecycle integration. Practical implications The results provide insights for researchers and practitioners on how LLMs can be effectively implemented throughout the construction domain. The paper highlights the need for developing domain-specific evaluation standards, establishing governance frameworks and aligning LLM applications with existing digital ecosystems such as building information modeling and digital twins. Originality/value This paper presents a comprehensive systematic review focused on LLM applications in construction. By mapping the technological landscape and summarizing key implementation strategies, it establishes a theoretical and practical foundation for advancing intelligent, data-driven and human-centered construction in the era of generative AI.
+C1 [Gao, Yu; Yiu, Tak Wing] Univ New South Wales, Sch Built Environm, Sydney, Australia.
+   [Shen, Xuesong] Univ New South Wales, Sch Civil & Environm Engn, Sydney, Australia.
+   [Tam, Vivian W. Y.] Western Sydney Univ, Sch Engn Design & Built Environm, Sydney, Australia.
+C3 University of New South Wales Sydney; University of New South Wales
+   Sydney; Western Sydney University
+RP Gao, Y (通讯作者)，Univ New South Wales, Sch Built Environm, Sydney, Australia.
+EM yu.gao4@unsw.edu.au; kenneth.yiu@unsw.edu.au; x.shen@unsw.edu.au;
+   v.tam@westernsydney.edu.au
+FU Australian Research Council [IC240100020, IH200100010]
+FX This work was supported by Australian Research Council (award number:
+   IC240100020 and IH200100010).
+CR Abdelalim AM, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15010018
+   Abioye SO, 2021, J BUILD ENG, V44, DOI 10.1016/j.jobe.2021.103299
+   Akinosho TD, 2020, J BUILD ENG, V32, DOI 10.1016/j.jobe.2020.101827
+   Baek S, 2025, AUTOMAT CONSTR, V176, DOI 10.1016/j.autcon.2025.106255
+   Banerjee S., 2024, ARXIV
+   Bao S, 2025, J BUILD ENG, V104, DOI 10.1016/j.jobe.2025.112356
+   Cai RY, 2025, ADV ENG INFORM, V64, DOI 10.1016/j.aei.2024.103075
+   Cao D., 2023, ARXIV
+   Chen GF, 2025, ADV ENG INFORM, V64, DOI 10.1016/j.aei.2024.103068
+   Chen NJ, 2024, BUILDINGS-BASEL, V14, DOI 10.3390/buildings14071983
+   Chen ZL, 2025, EXPERT SYST APPL, V265, DOI 10.1016/j.eswa.2024.125769
+   Choi S, 2024, ENERG BUILDINGS, V325, DOI 10.1016/j.enbuild.2024.115042
+   Cusumano L, 2025, CONSTR INNOV-ENGL, V25, P76, DOI 10.1108/CI-04-2024-0123
+   Das BC, 2025, ACM COMPUT SURV, V57, DOI 10.1145/3712001
+   Forth K, 2024, J BUILD ENG, V95, DOI 10.1016/j.jobe.2024.110312
+   Fuchs S., 2024, ARXIV
+   Gambatese JA, 2011, CONSTR MANAG ECON, V29, P553, DOI 10.1080/01446193.2011.570357
+   Gao MY, 2025, AUTOMAT CONSTR, V174, DOI 10.1016/j.autcon.2025.106146
+   Gao Y, 2025, CONSTR MANAG ECON, V43, P226, DOI 10.1080/01446193.2024.2415676
+   Gao Y, 2025, AUTOMAT CONSTR, V175, DOI 10.1016/j.autcon.2025.106238
+   Gu XR, 2025, BUILD ENVIRON, V272, DOI 10.1016/j.buildenv.2025.112694
+   Guo PZ, 2025, AUTOMAT CONSTR, V178, DOI 10.1016/j.autcon.2025.106374
+   Han DC, 2025, J ASIAN ARCHIT BUILD, V24, P1500, DOI 10.1080/13467581.2024.2329351
+   He CN, 2025, ENG CONSTR ARCHIT MA, DOI 10.1108/ECAM-08-2024-1066
+   He CN, 2025, J MANAGE ENG, V41, DOI 10.1061/JMENEA.MEENG-6444
+   Jang S, 2024, ADV ENG INFORM, V61, DOI 10.1016/j.aei.2024.102532
+   Jang S, 2024, COMPUTING IN CIVIL ENGINEERING 2023-VISUALIZATION, INFORMATION MODELING, AND SIMULATION, P291, DOI 10.1061/9780784485231.035
+   Jelodar MB, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15060933
+   Jeon K, 2025, ADV ENG INFORM, V64, DOI 10.1016/j.aei.2024.103076
+   Jeoung J, 2025, COMPUT-AIDED CIV INF, V40, P3218, DOI 10.1111/mice.13506
+   Ji ZW, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3571730
+   Jiang G, 2025, AUTOMAT CONSTR, V175, DOI 10.1016/j.autcon.2025.106223
+   Jiang G, 2025, ENERGY, V316, DOI 10.1016/j.energy.2025.134548
+   Jiang G, 2024, APPL ENERG, V367, DOI 10.1016/j.apenergy.2024.123431
+   Joffe I, 2025, J COMPUT CIVIL ENG, V39, DOI 10.1061/JCCEE5.CPENG-6037
+   Kaddour J., 2023, ARXIV
+   Kim EW, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15060923
+   Lee J, 2024, AUTOMAT CONSTR, V168, DOI 10.1016/j.autcon.2024.105846
+   Li A, 2025, ADV ENG INFORM, V66, DOI 10.1016/j.aei.2025.103375
+   Li C, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15010133
+   Li Y, 2025, ENERG BUILDINGS, V334, DOI 10.1016/j.enbuild.2025.115515
+   Liu CY, 2025, AUTOMAT CONSTR, V170, DOI 10.1016/j.autcon.2024.105891
+   Liu DL, 2025, ARCHIT ENG DES MANAG, DOI 10.1080/17452007.2025.2456768
+   Liu JC, 2025, ADV ENG INFORM, V68, DOI 10.1016/j.aei.2025.103643
+   Liu MZ, 2025, BUILD SIMUL-CHINA, V18, P225, DOI 10.1007/s12273-025-1235-9
+   Luo HB, 2024, DEV BUILT ENVIRON, V19, DOI 10.1016/j.dibe.2024.100488
+   Luo XC, 2025, EXPERT SYST APPL, V270, DOI 10.1016/j.eswa.2025.126563
+   Makela E., 2024, ARXIV
+   Matzakos N, 2025, COMPUT APPL ENG EDUC, V33, DOI 10.1002/cae.70049
+   Naderi H, 2025, EXPERT SYST APPL, V283, DOI 10.1016/j.eswa.2025.127887
+   Page MJ, 2021, SYST REV-LONDON, V10, DOI [10.1186/s13643-021-01626-4, 10.1016/j.ijsu.2021.105906, 10.1016/j.rec.2021.07.010, 10.1136/bmj.n71]
+   Peng C, 2023, NPJ DIGIT MED, V6, DOI [10.1038/s41746-023-00958-w, 10.1038/s41746-023-00958-w]
+   Pu HX, 2024, EXPERT SYST APPL, V255, DOI 10.1016/j.eswa.2024.124601
+   Raiaan MAK, 2024, IEEE ACCESS, V12, P26839, DOI 10.1109/ACCESS.2024.3365742
+   Ramalingam SP, 2025, BUILD ENVIRON, V267, DOI 10.1016/j.buildenv.2024.112174
+   Ray U, 2024, ENG CONSTR ARCHIT MA, DOI 10.1108/ECAM-09-2024-1259
+   Sabir A, 2025, AUTOMAT CONSTR, V175, DOI 10.1016/j.autcon.2025.106207
+   Sadick AM, 2025, BUILD ENVIRON, V274, DOI 10.1016/j.buildenv.2025.112735
+   Saka A, 2024, DEV BUILT ENVIRON, V17, DOI 10.1016/j.dibe.2023.100300
+   Saparamadu PVIN, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15071144
+   Seo W, 2025, ADV ENG INFORM, V65, DOI 10.1016/j.aei.2025.103381
+   Shi FC, 2025, ADV ENG INFORM, V67, DOI 10.1016/j.aei.2025.103523
+   Shi JWL, 2025, ADV ENG INFORM, V68, DOI 10.1016/j.aei.2025.103676
+   Shinn N, 2023, ADV NEUR IN
+   Taiwo R., 2024, ARXIV
+   Tran SV, 2024, J INF TECHNOL CONSTR, V29, P1026, DOI 10.36680/j.itcon.2024.045
+   Tsai WL, 2025, AUTOMAT CONSTR, V169, DOI 10.1016/j.autcon.2024.105863
+   Uhm M, 2025, AUTOMAT CONSTR, V177, DOI 10.1016/j.autcon.2025.106363
+   Wang YH, 2025, ADV ENG INFORM, V65, DOI [10.1016/j.aei.2025.103246, 10.1016/j.aei.2025.103246]
+   Wang ZQ, 2025, J BUILD ENG, V103, DOI 10.1016/j.jobe.2025.112189
+   Wu CK, 2022, AUTOMAT CONSTR, V134, DOI 10.1016/j.autcon.2021.104059
+   Xiao HR, 2025, ADV ENG INFORM, V68, DOI 10.1016/j.aei.2025.103618
+   Xiao T, 2024, ENERG BUILDINGS, V322, DOI 10.1016/j.enbuild.2024.114691
+   Xu QF, 2025, ADV ENG INFORM, V65, DOI 10.1016/j.aei.2025.103244
+   Xu YF, 2025, J BUILD ENG, V100, DOI 10.1016/j.jobe.2024.111488
+   Yang F, 2024, AUTOMAT CONSTR, V168, DOI 10.1016/j.autcon.2024.105817
+   Yoon S, 2025, J BUILD ENG, V108, DOI 10.1016/j.jobe.2025.112802
+   Zhang J, 2025, APPL ENERG, V377, DOI 10.1016/j.apenergy.2024.124378
+   Zhang L, 2025, AUTOMAT CONSTR, V176, DOI 10.1016/j.autcon.2025.106244
+   Zhang L, 2025, RENEW SUST ENERG REV, V214, DOI 10.1016/j.rser.2025.115558
+   Zhang L, 2025, ENERG BUILDINGS, V327, DOI 10.1016/j.enbuild.2024.115116
+   Zhang L, 2024, ENERG BUILDINGS, V313, DOI 10.1016/j.enbuild.2024.114278
+   Zhang L, 2025, ENG CONSTR ARCHIT MA, DOI 10.1108/ECAM-05-2024-0624
+   Zhang L, 2025, BUILDINGS-BASEL, V15, DOI 10.3390/buildings15040527
+   Zhang SJ, 2013, AUTOMAT CONSTR, V29, P183, DOI 10.1016/j.autcon.2012.05.006
+   Zhang TH, 2025, AUTOMAT CONSTR, V172, DOI 10.1016/j.autcon.2025.106036
+   Zheng CM, 2025, AUTOMAT CONSTR, V175, DOI [10.1016/j.autcon.2025.106179, 10.1016/j.autcon.2025.106179]
+   Zheng JW, 2023, AUTOMAT CONSTR, V155, DOI 10.1016/j.autcon.2023.105067
+   Zhou JY, 2025, AUTOMAT CONSTR, V174, DOI 10.1016/j.autcon.2025.106151
+   Zhou SH, 2025, AUTOMAT CONSTR, V175, DOI 10.1016/j.autcon.2025.106206
+   Zhou SH, 2025, ADV ENG INFORM, V65, DOI 10.1016/j.aei.2025.103142
+   Zhou YT, 2025, IEEE T POWER SYST, V40, P4220, DOI [10.1109/tpwrs.2025.3548891, 10.1109/TPWRS.2025.3548891]
+NR 92
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EMERALD GROUP PUBLISHING LTD
+PI Leeds
+PA Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE,
+   ENGLAND
+SN 0969-9988
+EI 1365-232X
+J9 ENG CONSTR ARCHIT MA
+JI Eng. Constr. Archit. Manag.
+PD DEC 14
+PY 2026
+VL 33
+IS 15
+BP 159
+EP 181
+DI 10.1108/ECAM-10-2025-1668
+PG 23
+WC Engineering, Industrial; Engineering, Civil; Management
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Engineering; Business & Economics
+GA EJ7EA
+UT WOS:001702704700001
+OA hybrid
+DA 2026-03-11
+ER
+
+PT J
+AU Kakale, MM
+   Pinelli, N
+AF Muhammad Kakale, Mus'ab
+   Pinelli, Nicola
+TI Impacts of artificial intelligence on healthcare business models and
+   outcomes
+SO JOURNAL OF HEALTH ORGANIZATION AND MANAGEMENT
+LA English
+DT Article
+DE Innovation; Technology; Artificial intelligence; Transformation;
+   Business models; Healthcare
+ID CLINICAL DECISION-SUPPORT; DIGITAL TRANSFORMATION; MANAGEMENT RESEARCH;
+   BIG DATA; INNOVATION; TECHNOLOGIES; TELEMEDICINE; CLASSIFICATION;
+   SYSTEM; PERSPECTIVE
+AB PurposeThis study aims to identify what the interaction between artificial intelligence (AI) and business models (BMs) can have on healthcare (HC) outcomes and experience and also what the ethical considerations are for AI implementation in HC. The study proposes an exploratory method using data collected from HC professionals. It aims to fill the identified gaps and contribute to theory and practice.Design/Methodology/ApproachThis study used an exploratory methodology based on open-ended essay questions designed on prolific.co and collected data from 29 HC professionals. These include experts in the use of AI in HC, and a content analysis was used to analyze the data.FindingsThe results showed that using AI in HC can lead to the standardization of HC services, leading to improved access to quality care with reduced cost. It revealed that AI can increase HC efficiency by automating services and increasing innovations and discoveries. But there are some ethical concerns hindering the adoption of AI HC, including data privacy, bias in algorithms and liability issues.Research limitations/implicationsThe sample size and the lack of including the opinions of patients are the major limitations of this study. Future studies are encouraged to improve in this direction.Practical implicationsThis study will promote and facilitate the wider acceptance and implementation of AI in HC. It will also enable policy and decision-makers to address ethical issues hindering the adoption of AI in HC.Originality/ValueThis study has filled an important research gap by revealing how AI is impacting HC BMs and outcomes. The study will facilitate the adoption of AI in HC.
+C1 [Muhammad Kakale, Mus'ab; Pinelli, Nicola] Univ Roma Tor Vergata, Sch Econ, Dept Management & Law, Rome, Italy.
+C3 University of Rome Tor Vergata
+RP Kakale, MM (通讯作者)，Univ Roma Tor Vergata, Sch Econ, Dept Management & Law, Rome, Italy.
+EM mmkakale@gmail.com; nicola.pinelli@gmail.com
+CR Abdelkafi N, 2016, ORGAN ENVIRON, V29, P74, DOI 10.1177/1086026615592930
+   Abràmoff MD, 2018, NPJ DIGIT MED, V1, DOI 10.1038/s41746-018-0040-6
+   Akinwale Yusuf Opeyemi, 2020, International Journal of Technological Learning, Innovation and Development, V12, P136, DOI 10.1504/IJTLID.2020.110622
+   Amit R, 2001, STRATEGIC MANAGE J, V22, P493, DOI 10.1002/smj.187
+   Angeli F, 2016, ORGAN ENVIRON, V29, P486, DOI 10.1177/1086026616647174
+   [Anonymous], 2021, Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS
+   [Anonymous], 2017, OECD Publishing, DOI [DOI 10.1787/HEALTH_GLANCE-2017-78-EN, 10.1787/health_glance-2017-en, DOI 10.1787/HEALTH_GLANCE-2017-EN]
+   Arbabshirani MR, 2018, NPJ DIGIT MED, V1, DOI 10.1038/s41746-017-0015-z
+   Asiri Abdulmajid, 2018, Acta Inform Med, V26, P201, DOI [10.5455/aim.2018.26.201-206, 10.5455/aim.2018.26.201-206]
+   Attah-Boakye R, 2023, TECHNOVATION, V125, DOI 10.1016/j.technovation.2023.102769
+   Baden-Fuller C, 2013, STRATEG ORGAN, V11, P418, DOI 10.1177/1476127013510112
+   BARNEY J, 1991, J MANAGE, V17, P99, DOI 10.1177/014920639101700108
+   Barney JB, 2001, ACAD MANAGE REV, V26, P41, DOI 10.2307/259393
+   Belhadi A, 2024, ANN OPER RES, V333, P627, DOI 10.1007/s10479-021-03956-x
+   Berman Saul J., 2012, Strategy & Leadership, V40, P16, DOI 10.1108/10878571211209314
+   Bluhm DJ, 2011, J MANAGE STUD, V48, P1866, DOI 10.1111/j.1467-6486.2010.00972.x
+   Bohr A., 2020, ARTIFICIAL INTELLIGE, P25, DOI [10.1016/B978-0-12-818438-7.00002-2, DOI 10.1016/B978-0-12-818438-7.00002-2]
+   Bouncken RB, 2021, REV MANAG SCI, V15, P1, DOI 10.1007/s11846-019-00366-z
+   Busetto L, 2020, NEUROL RES PRACT, V2, DOI 10.1186/s42466-020-00059-z
+   Capper D, 2018, NATURE, V555, P469, DOI 10.1038/nature26000
+   Casadesus-Masanell R, 2010, MANAGE SCI, V56, P1484, DOI 10.1287/mnsc.1100.1199
+   Chatterjee S, 2021, CARDIOMETRY, P134, DOI 10.18137/cardiometry.2021.20.134143
+   Chaudhary S, 2022, IND MARKET MANAG, V106, P323, DOI 10.1016/j.indmarman.2022.09.005
+   Chaudhuri R, 2024, ANN OPER RES, V339, P1757, DOI 10.1007/s10479-021-04407-3
+   Chen Mei, 2020, Healthc Manage Forum, V33, P10, DOI [10.1177/0840470419873123, 10.1177/0840470419873123]
+   Chesbrough H, 2002, IND CORP CHANGE, V11, P529, DOI 10.1093/icc/11.3.529
+   Choudhury A, 2020, JMIR MED INF, V8, DOI 10.2196/18599
+   Christofi M, 2024, J SMALL BUS MANAGE, V62, P2016, DOI 10.1080/00472778.2023.2193230
+   Cirillo D, 2020, NPJ DIGIT MED, V3, DOI 10.1038/s41746-020-0288-5
+   Climent RC, 2021, TECHNOL FORECAST SOC, V173, DOI 10.1016/j.techfore.2021.121174
+   Coeckelbergh M, 2020, SCI ENG ETHICS, V26, P2051, DOI 10.1007/s11948-019-00146-8
+   Copeland J., 2019, Swarms of flying iPhones: using limited artificial intelligence to route out an adversary
+   Coudray N, 2018, NAT MED, V24, P1559, DOI [10.1101/197574, 10.1038/s41591-018-0177-5]
+   Cutroneo L, 2014, ENVIRON EARTH SCI, V72, P3159, DOI 10.1007/s12665-014-3222-9
+   Dal Mas F., 2019, The Effects of Artificial Intelligence, Robotics, and Industry 4.0 Technologies
+   Dal Mas F, 2020, MANAGE DECIS, V58, P1601, DOI 10.1108/MD-09-2019-1266
+   Damoah IS, 2021, J CLEAN PROD, V328, DOI 10.1016/j.jclepro.2021.129598
+   Department of Health Human Services, 2020, Health Information Privacy
+   Dhir A, 2017, NEW MEDIA SOC, V19, P502, DOI 10.1177/1461444815611062
+   Di Vaio A, 2020, J BUS RES, V121, P283, DOI 10.1016/j.jbusres.2020.08.019
+   Dias MNR, 2021, INT J EBUSINESS EGOV, V13, P50, DOI [DOI 10.34111/IJEBEG.202113103, 10.34111/ijebeg.202113103]
+   Dicuonzo G, 2023, TECHNOVATION, V120, DOI 10.1016/j.technovation.2022.102510
+   Dmitriev V, 2014, R&D MANAGE, V44, P306, DOI 10.1111/radm.12066
+   Ellahham S, 2020, AM J MED QUAL, V35, P341, DOI 10.1177/1062860619878515
+   Ermakova T., 2013, Cloud Computing in Healthcare-A Literature Review on Current State of Research, V1
+   Esteva A, 2019, NAT MED, V25, P24, DOI 10.1038/s41591-018-0316-z
+   Esteva A, 2017, NATURE, V542, P115, DOI 10.1038/nature21056
+   European Commission, 2020, Health at a Glance: Europe 2020. State of Health in the EU Cycle-European Commission
+   European Parliament and Council of the European Union, 2017, General data protection regulation
+   Evers N, 2023, J BUS RES, V158, DOI 10.1016/j.jbusres.2023.113659
+   Fan WJ, 2020, ANN OPER RES, V294, P567, DOI 10.1007/s10479-018-2818-y
+   FDA, 2021, Good Machine Learning Practice for Medical Device Development: Guiding Principles
+   FDA, 2021, How FDA Regulates Artificial Intelligence in Medical Products
+   FDA, 2022, Artificial intelligence and machine learning in software as a medical device
+   Fernández-Cardeñosa G, 2012, J MED SYST, V36, P3777, DOI 10.1007/s10916-012-9850-2
+   Filice RW, 2020, RADIOL-ARTIF INTELL, V2, DOI 10.1148/ryai.2020190095
+   French-Mowat Elaine, 2012, J R Soc Med, V105 Suppl 1, pS22, DOI 10.1258/jrsm.2012.120036
+   Fullerton RR, 2009, INT J OPER PROD MAN, V29, P214, DOI 10.1108/01443570910938970
+   Gambardella A., 2010, Business-model Innovation: General Purpose Technologies and Their Implications for Industry Structure
+   Ghasemaghaei M, 2021, INT J INFORM MANAGE, V57, DOI 10.1016/j.ijinfomgt.2019.102055
+   Gioia DA, 2013, ORGAN RES METHODS, V16, P15, DOI 10.1177/1094428112452151
+   Gomez J, 2016, LONG RANGE PLANN, V49, P265, DOI 10.1016/j.lrp.2015.12.006
+   Gunter RL, 2016, J AM COLL SURGEONS, V222, P915, DOI 10.1016/j.jamcollsurg.2016.01.062
+   Gupta M, 2016, INFORM MANAGE-AMSTER, V53, P1049, DOI 10.1016/j.im.2016.07.004
+   Habli I, 2020, B WORLD HEALTH ORGAN, V98, P251, DOI 10.2471/BLT.19.237487
+   Hacklin F, 2018, LONG RANGE PLANN, V51, P82, DOI 10.1016/j.lrp.2017.06.009
+   Hamed S, 2020, QUAL HEALTH RES, V30, P1662, DOI 10.1177/1049732320931430
+   Howard A, 2018, SCI ENG ETHICS, V24, P1521, DOI 10.1007/s11948-017-9975-2
+   Hsieh P., 2017, AI MED RISE MACHINES
+   Hu P. J.-H., 2003, 36th Hawaii International Conference on Systems Sciences
+   Jiang F, 2017, STROKE VASC NEUROL, V2, P230, DOI 10.1136/svn-2017-000101
+   Jussupow E, 2021, INFORM SYST RES, V32, P713, DOI 10.1287/isre.2020.0980
+   Kakale MM, 2024, HEALTH TECHNOL-GER, V14, P35, DOI 10.1007/s12553-023-00803-w
+   Kaminski ME, 2021, INT DATA PRIV LAW, V11, P125, DOI 10.1093/idpl/ipaa020
+   Kaplan A, 2019, BUS HORIZONS, V62, P15, DOI 10.1016/j.bushor.2018.08.004
+   Katz RL, 2013, TECHNOVATION, V33, P314, DOI 10.1016/j.technovation.2013.06.004
+   Khan IS, 2023, J CLEAN PROD, V405, DOI 10.1016/j.jclepro.2023.137006
+   Krakowski S, 2023, STRATEGIC MANAGE J, V44, P1425, DOI 10.1002/smj.3387
+   Kraus S, 2023, TECHNOL FORECAST SOC, V193, DOI 10.1016/j.techfore.2023.122638
+   Kraus S, 2021, J BUS RES, V123, P557, DOI 10.1016/j.jbusres.2020.10.030
+   Kraus S, 2020, INT ENTREP MANAG J, V16, P1023, DOI 10.1007/s11365-020-00635-4
+   Kulkov I, 2023, INT J ENTREP BEHAV R, V29, P860, DOI 10.1108/IJEBR-04-2021-0304
+   Kulkov I, 2021, J ENG TECHNOL MANAGE, V59, DOI 10.1016/j.jengtecman.2021.101614
+   Kumar P, 2023, INT J INFORM MANAGE, V69, DOI 10.1016/j.ijinfomgt.2022.102598
+   Kumar P, 2023, ENG APPL ARTIF INTEL, V120, DOI 10.1016/j.engappai.2023.105894
+   Kumar V, 2021, J BUS RES, V125, P864, DOI 10.1016/j.jbusres.2020.01.007
+   Laï MC, 2020, J TRANSL MED, V18, DOI 10.1186/s12967-019-02204-y
+   Laudien SM, 2024, TECHNOL FORECAST SOC, V200, DOI 10.1016/j.techfore.2023.123103
+   Laurenza E, 2018, BUS PROCESS MANAG J, V24, P1124, DOI 10.1108/BPMJ-04-2017-0084
+   Lebcir R, 2021, BMJ OPEN, V11, DOI 10.1136/bmjopen-2020-044074
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Lee C, 2021, TECHNOL FORECAST SOC, V167, DOI 10.1016/j.techfore.2021.120653
+   Lee D, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18010271
+   Lee D, 2018, TECHNOL FORECAST SOC, V137, P118, DOI 10.1016/j.techfore.2018.06.050
+   Lee SM, 2020, SERV BUS, V14, P503, DOI 10.1007/s11628-020-00428-3
+   Lekadir, 2022, FUTURE-AI: Best Practices for Trustworthy AI in Medicine
+   Lekadir K., 2022, Artificial intelligence in healthcare: applications, risks, and ethical and societal impacts
+   Leone D, 2021, J BUS RES, V129, P849, DOI 10.1016/j.jbusres.2020.11.008
+   Li JPO, 2021, PROG RETIN EYE RES, V82, DOI 10.1016/j.preteyeres.2020.100900
+   Liew C, 2018, EUR J RADIOL, V102, P152, DOI 10.1016/j.ejrad.2018.03.019
+   Lin CF, 2012, J MED SYST, V36, P511, DOI 10.1007/s10916-010-9496-x
+   Liu J, 2020, TECHNOL FORECAST SOC, V158, DOI 10.1016/j.techfore.2020.120142
+   Long EP, 2017, NAT BIOMED ENG, V1, DOI 10.1038/s41551-016-0024
+   Lou BW, 2021, MIS QUART, V45, P1451, DOI 10.25300/MISQ/2021/16565
+   Luo Y, 2021, PHYS MEDICA, V87, P11, DOI 10.1016/j.ejmp.2021.05.032
+   Ma BX, 2023, AGEING RES REV, V83, DOI 10.1016/j.arr.2022.101808
+   Mahadevaiah G, 2020, MED PHYS, V47, pE228, DOI 10.1002/mp.13562
+   Malodia S, 2025, INT J ENTREP BEHAV R, V31, P648, DOI 10.1108/IJEBR-03-2022-0235
+   Manne R, 2021, Current Journal of Applied Science and Technology, P78, DOI [10.9734/cjast/2021/v40i631320, 10.9734/cjast/2021/v40i631320, DOI 10.9734/CJAST/2021/V40I631320]
+   Martínez-Caro E, 2020, TECHNOL FORECAST SOC, V154, DOI 10.1016/j.techfore.2020.119962
+   McCarthy J, 2006, AI MAG, V27, P12
+   McCoy LG, 2020, NPJ DIGIT MED, V3, DOI 10.1038/s41746-020-0294-7
+   Medtronic, 2018, Medtronic
+   Michel JP, 2020, EUR GERIATR MED, V11, P345, DOI 10.1007/s41999-020-00323-0
+   Mikalef P, 2021, INFORM MANAGE-AMSTER, V58, DOI 10.1016/j.im.2021.103434
+   Miles MB., 1994, Qualitative Data Analysis: an Expanded Sourcebook, V2nd
+   Miyashita M., 2019, Harvard Business Review
+   Monteith S, 2016, CURR PSYCHIAT REP, V18, DOI 10.1007/s11920-016-0746-6
+   Mooney SJ, 2018, ANNU REV PUBL HEALTH, V39, P95, DOI 10.1146/annurev-publhealth-040617-014208
+   Murphy K., 2012, Machine learning: a probabilistic perspective
+   Nam KH, 2019, NEUROSPINE, V16, P705
+   Nambisan S, 2017, MIS QUART, V41, P223, DOI 10.25300/MISQ/2017/41:1.03
+   Nikus K., 2011, The role of standard 12-lead ECG in a telecardiology consultation service
+   Pak HS, 2009, TELEMED J E-HEALTH, V15, P160, DOI 10.1089/tmj.2008.0083
+   Palmié M, 2020, TECHNOL FORECAST SOC, V151, DOI 10.1016/j.techfore.2019.119779
+   Pan JX, 2019, INT J PROD RES, V57, P5801, DOI 10.1080/00207543.2018.1550272
+   Parajuli R, 2017, TELEMAT INFORM, V34, P1166, DOI 10.1016/j.tele.2017.05.006
+   Paschen J, 2020, BUS HORIZONS, V63, P403, DOI 10.1016/j.bushor.2020.01.003
+   Paschen U, 2020, BUS HORIZONS, V63, P147, DOI 10.1016/j.bushor.2019.10.004
+   Pellegrino E.D., 2004, Prevention of Medical Error: Where Professional and Organizational Ethics Meet. European Commission. European Parliament
+   Pesapane Filippo, 2018, Eur Radiol Exp, V2, P35, DOI [10.1186/s41747-018-0061-6, 10.1186/s41747-018-0061-6]
+   Pham P, 2024, J BUS RES, V172, DOI 10.1016/j.jbusres.2023.114402
+   Poole D., 1998, Choice Reviews Online, V35, p35, DOI [10.5860/CHOICE.35-5701, DOI 10.5860/CHOICE.35-5701]
+   Porter ME, 2014, HARVARD BUS REV, V92, P64
+   Pundziene A, 2023, J BUS RES, V159, DOI 10.1016/j.jbusres.2023.113701
+   Pundziene A, 2022, CALIF MANAGE REV, V64, P108, DOI 10.1177/00081256221099326
+   Rachinger M, 2019, J MANUF TECHNOL MANA, V30, P1143, DOI 10.1108/JMTM-01-2018-0020
+   Raimo N, 2023, TECHNOVATION, V121, DOI 10.1016/j.technovation.2022.102558
+   Rampton V, 2020, LANCET DIGIT HEALTH, V2, pE111, DOI 10.1016/S2589-7500(20)30023-6
+   Rao B, 2009, J DRUGS DERMATOL, V8, P371
+   Reddy S., 2018, Use of Artificial Intelligence in Healthcare Delivery
+   Reddy S, 2020, J AM MED INFORM ASSN, V27, P491, DOI 10.1093/jamia/ocz192
+   Reinartz W, 2019, INT J RES MARK, V36, P350, DOI 10.1016/j.ijresmar.2018.12.002
+   Reisman D., 2018, Algorithmic impact assessments: a practical framework for public agency
+   Rolim CO, 2010, SECOND INTERNATIONAL CONFERENCE ON EHEALTH, TELEMEDICINE, AND SOCIAL MEDICINE: ETELEMED 2010, PROCEEDINGS, P95, DOI 10.1109/eTELEMED.2010.19
+   Saddler N, 2020, Current Treatment Options in Pediatrics, V6, P325, DOI [10.1007/s40746-020-00206-3, 10.1007/s40746-020-00206-3, DOI 10.1007/S40746-020-00206-3]
+   Samala RK, 2016, MED PHYS, V43, P6654, DOI 10.1118/1.4967345
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Secundo G, 2019, BUS PROCESS MANAG J, V25, P144, DOI 10.1108/BPMJ-06-2017-0173
+   Seddon JJM, 2013, HEALTH POLICY TECHN, V2, P229, DOI 10.1016/j.hlpt.2013.09.003
+   Senders JT, 2018, ACTA NEUROCHIR, V160, P29, DOI 10.1007/s00701-017-3385-8
+   Shane S, 2001, ACAD MANAGE REV, V26, P13, DOI 10.5465/AMR.2001.27879269
+   Shi F, 2021, IEEE REV BIOMED ENG, V14, P4, DOI 10.1109/RBME.2020.2987975
+   Singh N, 2024, TECHNOL FORECAST SOC, V198, DOI 10.1016/j.techfore.2023.122967
+   Smith M, 2021, J GEN INTERN MED, V36, P1061, DOI 10.1007/s11606-020-06394-w
+   Sparrow R., 2007, Journal of applied philosophy, V24, P62, DOI DOI 10.1111/J.1468-5930.2007.00346.X
+   Spatharou A., 2020, Transforming Healthcare with AI: The Impact on the Workforce and Organizations
+   Srivastava S, 2021, BENCHMARKING, V28, P106, DOI 10.1108/BIJ-03-2020-0125
+   Stone EG, 2018, J AM MED INFORM ASSN, V25, P564, DOI 10.1093/jamia/ocx096
+   Sun WB, 2022, COMPUT METH PROG BIO, V221, DOI 10.1016/j.cmpb.2022.106927
+   Sutton RT, 2020, NPJ DIGIT MED, V3, DOI 10.1038/s41746-020-0221-y
+   Swedberg R., 2020, Exploratory Research
+   Täuscher K, 2018, EUR MANAG J, V36, P319, DOI 10.1016/j.emj.2017.06.005
+   Tamvada JP, 2022, TECHNOL FORECAST SOC, V185, DOI 10.1016/j.techfore.2022.122088
+   Teece D.J., 2018, Business Models and Dynamic Capabilities
+   Teece DJ, 2018, RES POLICY, V47, P1367, DOI 10.1016/j.respol.2017.01.015
+   Teece DJ, 2010, LONG RANGE PLANN, V43, P172, DOI 10.1016/j.lrp.2009.07.003
+   Ting DSW, 2017, JAMA-J AM MED ASSOC, V318, P2211, DOI 10.1001/jama.2017.18152
+   Topol EJ, 2019, NAT MED, V25, P44, DOI 10.1038/s41591-018-0300-7
+   Tortorella GL, 2022, TECHNOVATION, V111, DOI 10.1016/j.technovation.2021.102379
+   Tortorella GL, 2021, TECHNOL FORECAST SOC, V166, DOI 10.1016/j.techfore.2021.120666
+   Uzialko A., 2020, Artificial Intelligence Will Change Healthcare as We Know it
+   van Ginneken B, 2015, I S BIOMED IMAGING, P286, DOI 10.1109/ISBI.2015.7163869
+   Venkatesan M., 2018, Data science central
+   Verhoef PC, 2019, INT J RES MARK, V36, P341, DOI 10.1016/j.ijresmar.2019.08.001
+   Visnjic I, 2016, J PROD INNOVAT MANAG, V33, P36, DOI 10.1111/jpim.12254
+   von Wedel P, 2022, J MED INTERNET RES, V24, DOI 10.2196/40124
+   Weaver J.F., 2019, Value-Based Regulation of Artificial Intelligence
+   Weber R.P., 1990, Basic Content Analysis
+   Weng SF, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0174944
+   Whitten P, 2006, GENERATIONS, V30, P20
+   Wirtz BW, 2010, LONG RANGE PLANN, V43, P272, DOI 10.1016/j.lrp.2010.01.005
+   Xu W, 2019, interactions, V26, P42, DOI [10.1145/3328485, 10.1145/3328485, DOI 10.1145/3328485]
+   Yang HL, 2009, TECHNOVATION, V29, P327, DOI 10.1016/j.technovation.2009.01.006
+   Yang SJ, 2018, BMC BIOINFORMATICS, V19, DOI 10.1186/s12859-018-2087-4
+   Yoon SN, 2019, INT J HEALTHCARE MAN, V12, P218, DOI 10.1080/20479700.2018.1498220
+   Yu KH, 2018, NAT BIOMED ENG, V2, P719, DOI 10.1038/s41551-018-0305-z
+   Yu KH, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12474
+   Yunus M, 2010, LONG RANGE PLANN, V43, P308, DOI 10.1016/j.lrp.2009.12.005
+   Zhang J, 2018, CIRCULATION, V138, P1623, DOI 10.1161/CIRCULATIONAHA.118.034338
+   Zott C, 2010, LONG RANGE PLANN, V43, P216, DOI 10.1016/j.lrp.2009.07.004
+   Zott K, 2011, INT J FOOD MICROBIOL, V151, P210, DOI 10.1016/j.ijfoodmicro.2011.08.026
+NR 192
+TC 0
+Z9 0
+U1 1
+U2 1
+PU EMERALD GROUP PUBLISHING LTD
+PI Leeds
+PA Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE,
+   ENGLAND
+SN 1477-7266
+EI 1758-7247
+J9 J HEALTH ORGAN MANAG
+JI J. Health Organ. Manag.
+PD DEC 14
+PY 2026
+VL 40
+IS 9
+BP 39
+EP 74
+DI 10.1108/JHOM-06-2025-0356
+PG 36
+WC Health Policy & Services
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services
+GA CU9VG
+UT WOS:001675057100002
+OA Green Submitted, hybrid
+DA 2026-03-11
+ER
+
+PT J
+AU Li, MX
+   Basit, A
+   Javed, A
+   Song, XP
+   Ge, Y
+AF Li, Mingxing
+   Basit, Abdul
+   Javed, Asma
+   Song, Xinping
+   Ge, Yan
+TI Generative artificial intelligence and ChatGPT in agriculture supply
+   chain management: a systematic literature review and future research
+   agenda
+SO BRITISH FOOD JOURNAL
+LA English
+DT Review
+DE Gen-AI; ChatGPT; Agriculture supply chain; Thematic area; Future
+   direction
+AB Purpose - This paper presents a comprehensive overview of existing academic research on the application of Generative AI (Gen-AI) and ChatGPT within agricultural supply chains, highlighting current trends, leading publishers, thematic areas and proposing a future research agenda. Design/methodology/approach - A bibliometric analysis was conducted using VOSviewer software on a sample of 79 articles retrieved from the Web of Science (WoS) and Scopus databases to identify emerging research topics. Findings - The number of publications in this area has increased, and since 2023, academic interest in the application of Gen-AI and ChatGPT to agricultural supply chains has shown a consistent upward trend. Key areas of focus include enhancing prediction accuracy, coordination, automation, employee performance, optimizing supply chain management and improving overall business outcomes. However, concerns also exist, like hallucination, data privacy, security risks, lack of accuracy, copyright issues and ethical implications. Consequently, the risk of ungoverned Gen-AI outputs without human oversight potentially disrupting operations underscores the need for robust governance frameworks to ensure its reliable integration in agricultural contexts. Practical implications - Gen-AI and ChatGPT provide several advantages for agricultural supply chains. They enhance forecasting capabilities and coordination among partners, automate stakeholder interactions to increase efficiency, reduce manual tasks to improve employee performance and support data-driven decision-making through advanced analytics, ultimately strengthening supply chain management. Originality/value - This study offers a structured and in-depth examination of the Gen-AI and ChatGPT phenomenon in agricultural supply chains. Moreover, it contributes to the literature by identifying existing research gaps and suggesting potential directions for future investigation.
+C1 [Li, Mingxing; Song, Xinping] Jiangsu Univ, Sch Management, Zhenjiang, Peoples R China.
+   [Basit, Abdul] Jilin Univ, Sch Archaeol, Changchun, Peoples R China.
+   [Javed, Asma] Changan Univ, Xian, Peoples R China.
+   [Ge, Yan] Shanghai Ocean Univ, Coll Informat Technol, Shanghai, Peoples R China.
+C3 Jiangsu University; Jilin University; Chang'an University; Shanghai
+   Ocean University
+RP Basit, A (通讯作者)，Jilin Univ, Sch Archaeol, Changchun, Peoples R China.
+EM mingxingli6@ujs.edu.cn; Basit2811@gmail.com; 2020023922@chd.edu.cn;
+   1000003565@ujs.edu.cn; yge@shou.edu.cn
+RI ; Javed, Asma/LTZ-5287-2024
+OI Basit, Abdul/0009-0009-9909-6463; Javed, Asma/0009-0004-1216-4755; Li,
+   Mingxing/0000-0002-4039-5997
+FU National Foreign Expert Project, National Social Science Fund of China
+   [Y20240100, Y20240101, 21BTQ070]
+FX This work was supported by National Foreign Expert Project, National
+   Social Science Fund of China (award numbers: Y20240100, Y20240101 and
+   21BTQ070).
+CR Shekhar EAA, 2023, International Journal on Recent and Innovation Trends in Computing and Communication, V11, P4179, DOI [10.17762/ijritcc.v11i9.9786, 10.17762/ijritcc.v11i9.9786, DOI 10.17762/IJRITCC.V11I9.9786]
+   Asif M, 2023, SUSTAINABILITY-BASEL, V15, DOI 10.3390/su15097190
+   Banerjee S, 2024, International Journal of Innovative Research in Computer Science and Technology, V12, P74, DOI [10.55524/ijircst.2024.12.5.10, 10.55524/ijircst.2024.12.5.10, DOI 10.55524/IJIRCST.2024.12.5.10]
+   Barreto F., 2023, INTELLIGENT COMPUTIN, P545, DOI DOI 10.1007/978-981
+   Basit A, 2023, SUSTAINABILITY-BASEL, V15, DOI 10.3390/su151813538
+   Boone T, 2025, TRANSPORT RES E-LOG, V199, DOI 10.1016/j.tre.2025.104135
+   Chen DH, 2022, FRONT PSYCHOL, V13, DOI 10.3389/fpsyg.2022.884830
+   Chen JL, 2020, TRENDS FOOD SCI TECH, V105, P251, DOI 10.1016/j.tifs.2020.08.015
+   Chui M., 2023, The economic potential of generative AI
+   Darko RO, 2016, ACTA AGR SCAND B-S P, V66, P191, DOI 10.1080/09064710.2015.1093654
+   De Baerdemaeker J., 2023, Panel for the Future of Science and Technology
+   Deighton K., 2023, The Wall Street Journal
+   Dubey R, 2024, TRANSPORT RES E-LOG, V189, DOI 10.1016/j.tre.2024.103689
+   Erik B., 2023, NBER Working Paper 31161
+   Fan SY, 2025, FINANC RES LETT, V77, DOI 10.1016/j.frl.2025.107111
+   Feng T, 2024, Industry Science and Engineering, V1, P15, DOI [10.62381/i245403, 10.62381/I245403, DOI 10.62381/I245403]
+   Gezdur A, 2025, INT J PHYS DISTR LOG, V55, P394, DOI 10.1108/IJPDLM-12-2023-0492
+   González-Mendes S, 2024, BRIT FOOD J, V126, P182, DOI 10.1108/BFJ-06-2023-0517
+   Haddud A, 2024, J MANUF TECHNOL MANA, V35, P1293, DOI 10.1108/JMTM-02-2024-0075
+   Jackson I, 2024, INT J PROD RES, V62, P6120, DOI 10.1080/00207543.2024.2309309
+   Javed A, 2024, DISCOV SUSTAIN, V5, DOI 10.1007/s43621-024-00228-z
+   Kaplan J, 2020, Arxiv, DOI [arXiv:2001.08361, 10.48550/arXiv.2001.08361]
+   Khan AU, 2023, LIBR HI TECH, DOI 10.1108/LHT-07-2023-0280
+   Khlie K, 2024, J INFRASTRUCT POLICY, V8, P6637, DOI [10.24294/jipd.v8i10.6637, https://doi.org/10.24294/jipd.v8i10.6637, DOI 10.24294/JIPD.V8I10.6637, 10.24294/jipd.v8i10.6637]
+   Kmiecik M, 2025, J MODEL MANAG, V20, P1138, DOI 10.1108/JM2-06-2024-0192
+   Krupitzer C, 2024, FRONT FOOD SCI TECHN, V4, DOI [10.3389/frfst.2024.1473357, 10.3389/frfst.2024.1473357]
+   Li HH, 2021, FOOD CONTROL, V128, DOI 10.1016/j.foodcont.2021.108186
+   Li LX, 2024, TRANSPORT RES E-LOG, V192, DOI 10.1016/j.tre.2024.103761
+   Li LX, 2024, INT J PROD ECON, V277, DOI 10.1016/j.ijpe.2024.109388
+   Li MX, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph192013273
+   Maghroor H.R., 2024, 9 N AM C IND ENG OPE
+   Mahmood A, 2018, SCI HORTIC-AMSTERDAM, V241, P241, DOI 10.1016/j.scienta.2018.06.078
+   Mohamed O.a. M., 2023, How generative AI transforming supply chain operations and efficiency?
+   Nguyen M, 2025, J ENTERP INF MANAG, V38, P1647, DOI 10.1108/JEIM-11-2024-0637
+   Nie T, 2025, TRANSPORT RES E-LOG, V197, DOI 10.1016/j.tre.2025.104075
+   Noy S, 2023, SCIENCE, V381, P187, DOI 10.1126/science.adh2586
+   Oladejo AO, 2018, J SCI FOOD AGR, V98, P456, DOI 10.1002/jsfa.8502
+   Peres R, 2023, INT J RES MARK, V40, P269, DOI 10.1016/j.ijresmar.2023.03.001
+   Prasad KDV, 2024, HUM SOC SCI COMMUN, V11, DOI 10.1057/s41599-024-03842-4
+   Research AM, 2023, Generative AI market expected to reach $191.8 billion by 2032
+   Rozanec JM, 2023, INT J PROD RES, V61, P6847, DOI 10.1080/00207543.2022.2138611
+   Sai S, 2025, COGN COMPUT, V17, DOI 10.1007/s12559-025-10420-6
+   Sedkaoui S, 2024, EUR J INNOV MANAG, DOI 10.1108/EJIM-02-2024-0129
+   Shahriar S, 2025, J AGR FOOD RES, V20, DOI 10.1016/j.jafr.2025.101787
+   Shaikh TA, 2025, PROG ARTIF INTELL, V14, P117, DOI 10.1007/s13748-024-00359-4
+   Sheffi Y., 2023, The Magic Conveyor Belt: Supply Chains, AI, and the Future of Work
+   Sun Y, 2024, ENERGIES, V17, DOI 10.3390/en17153605
+   Suprobo W, 2025, Khazanah Informatika : Jurnal Ilmu Komputer dan Informatika, V10, P135, DOI [10.23917/khif.v10i2.3056, 10.23917/khif.v10i2.3056, DOI 10.23917/KHIF.V10I2.3056]
+   Teixeira AR, 2025, INFORMATION, V16, DOI 10.3390/info16050399
+   Tzachor A, 2023, NAT FOOD, V4, P941, DOI 10.1038/s43016-023-00867-x
+   Wamba SF, 2024, INT J PROD RES, V62, P5676, DOI 10.1080/00207543.2023.2294116
+   Wamba SF, 2023, INT J PROD ECON, V265, DOI 10.1016/j.ijpe.2023.109015
+   Zhang HY, 2016, TRENDS FOOD SCI TECH, V51, P88, DOI 10.1016/j.tifs.2016.03.012
+   Zhang YQ, 2022, TRENDS FOOD SCI TECH, V124, P1, DOI 10.1016/j.tifs.2022.03.030
+   Zheng ZW, 2023, STARCH-STARKE, V75, DOI 10.1002/star.202200216
+NR 55
+TC 0
+Z9 0
+U1 22
+U2 22
+PU EMERALD GROUP PUBLISHING LTD
+PI Leeds
+PA Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE,
+   ENGLAND
+SN 0007-070X
+EI 1758-4108
+J9 BRIT FOOD J
+JI Br. Food J.
+PD DEC 14
+PY 2026
+VL 128
+IS 13
+BP 121
+EP 141
+DI 10.1108/BFJ-05-2025-0720
+PG 21
+WC Agricultural Economics & Policy; Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Food Science & Technology
+GA AT6ZU
+UT WOS:001656521500001
+OA hybrid
+DA 2026-03-11
+ER
+
+PT J
+AU Sun, YQ
+   Luan, ZQ
+   Ma, J
+AF Sun, Yongqiang
+   Luan, Zequan
+   Ma, Jie
+TI Exploring factors influencing open government data value realization in
+   China: A mixed design using grounded theory, system dynamics, and
+   questionnaire survey
+SO INFORMATION PROCESSING & MANAGEMENT
+LA English
+DT Article
+DE Open government data; Data value realization; System dynamics; Grounded
+   theory; Simulation analysis
+AB As digital economy strategies advance and the data market gradually matures, the pathways for realizing the value of China's government open data have undergone significant changes, with numerous emerging influencing factors. Previous research has primarily relied on portal operational data and static efficiency assessment methods, making it challenging to identify the evolutionary mechanisms and dynamic relationships among these factors. To bridge this gap and inform policy-making and theoretical advancements, we employ a hybrid design that combines grounded theory and system dynamics. Utilizing 33 semi-structured interviews and 317 questionnaire responses (292 valid), we construct causal loops and a stock-flow structure. A 60-month simulation analysis examines factors influencing open government data (OGD) value realization, focusing on: (a) influencing factors and feedback positions; (b) the ranking of factor strengths and directionality. Our findings reveal that increased data demand rates sustainably elevate the longrun equilibrium level of government open data value realization, while higher data depreciation rates reduce this equilibrium. This research advances the dynamic theory of OGD value realization, broadens insights into key drivers and inhibitors, and provides methodological support for implementing strategies such as prioritizing high-demand data releases, optimizing APIs and data rights confirmation processes, and enhancing storage security by mitigating data depreciation. Our findings indicate that enhancing OGD value cannot be achieved solely by increased accessibility or platform capabilities. Instead, it requires examining multifaceted feedback loops and synergistic interactions to uncover specific value generation mechanisms and identify bottlenecks.
+C1 [Sun, Yongqiang; Luan, Zequan] Wuhan Univ, Sch Informat Management, 299 Luojiashan Rd, Wuhan, Peoples R China.
+   [Sun, Yongqiang] Wuhan Univ, Ctr Studies Informat Resources, 299 Luojiashan Rd, Wuhan 430072, Peoples R China.
+   [Ma, Jie] Jilin Univ, Sch Business & Management, 2699 Qianjin St, Changchun, Peoples R China.
+C3 Wuhan University; Wuhan University; Jilin University
+RP Luan, ZQ (通讯作者)，Wuhan Univ, Sch Informat Management, 299 Luojiashan Rd, Wuhan, Peoples R China.
+EM 215882595@qq.com
+FU National Social Science Fund of China [23ZDA044]
+FX The work described in this paper was partially supported by the grants
+   from the National Social Science Fund of China [grant No. 23ZDA044] .
+CR Attard J, 2015, GOV INFORM Q, V32, P399, DOI 10.1016/j.giq.2015.07.006
+   Benmohamed N, 2024, GOV INFORM Q, V41, DOI 10.1016/j.giq.2024.101930
+   Bonina C, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2020.101479
+   Cantador I, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102301
+   Chen QL, 2025, GOV INFORM Q, V42, DOI 10.1016/j.giq.2025.102059
+   Cho JY, 2022, INFORM TECHNOL PEOPL, V35, P467, DOI 10.1108/ITP-04-2019-0169
+   Dawes SS, 2016, GOV INFORM Q, V33, P15, DOI 10.1016/j.giq.2016.01.003
+   Fang J, 2024, GOV INFORM Q, V41, DOI 10.1016/j.giq.2024.101934
+   Farhadloo M, 2024, TRANSFORM GOV-PEOPLE, V18, P722, DOI 10.1108/TG-02-2024-0055
+   Fu J, 2025, DYN GAMES APPL, V15, P1587, DOI 10.1007/s13235-024-00615-1
+   Han N, 2025, SOCIO-ECON PLAN SCI, V98, DOI 10.1016/j.seps.2025.102184
+   Hjaltalin IT, 2024, GOV INFORM Q, V41, DOI 10.1016/j.giq.2024.101914
+   Hou CM, 2025, SCI REP-UK, V15, DOI 10.1038/s41598-025-13699-5
+   Huang HN, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2020.101495
+   Janssen M, 2012, INFORM SYST MANAGE, V29, P258, DOI 10.1080/10580530.2012.716740
+   Jeon C, 2022, PUBLIC PERFORM MANAG, V45, P308, DOI 10.1080/15309576.2021.1989313
+   Jetzek T, 2019, J ASSOC INF SYST, V20, P702, DOI 10.17705/1jais.00549
+   Jiang HB, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11082388
+   Jiao YR, 2024, INFORM PROCESS MANAG, V61, DOI 10.1016/j.ipm.2023.103611
+   Karimian Z, 2024, BMC MED EDUC, V24, DOI 10.1186/s12909-024-06307-z
+   Kawashita I, 2024, PLOS ONE, V19, DOI 10.1371/journal.pone.0298157
+   Kenzie ES, 2025, SYST RES BEHAV SCI, V42, P756, DOI 10.1002/sres.3030
+   Khurshid MM, 2022, BIG DATA COGN COMPUT, V6, DOI 10.3390/bdcc6010031
+   Khurshid MM, 2020, INFORMATICS-BASEL, V7, DOI 10.3390/informatics7030024
+   Li Y, 2024, GOV INFORM Q, V41, DOI 10.1016/j.giq.2024.101916
+   Liang YK, 2025, GOV INFORM Q, V42, DOI 10.1016/j.giq.2025.102022
+   Liu S, 2024, SCI REP-UK, V14, DOI 10.1038/s41598-024-82363-1
+   Lnenicka M, 2024, GOV INFORM Q, V41, DOI 10.1016/j.giq.2023.101898
+   Máchová R, 2018, ASLIB J INFORM MANAG, V70, P252, DOI 10.1108/AJIM-02-2018-0026
+   Matheus R, 2023, INT J INFORM MANAGE, V73, DOI 10.1016/j.ijinfomgt.2023.102690
+   Mo FC, 2025, J INTEGR DES PROCESS, V28, P86, DOI [10.3233/jid-230037, 10.3233/JID-230037]
+   Mu R, 2026, ASLIB J INFORM MANAG, V78, P237, DOI 10.1108/AJIM-07-2023-0243
+   Mustapa MN, 2022, PLOS ONE, V17, DOI 10.1371/journal.pone.0276860
+   Ni GD, 2022, FRONT PSYCHOL, V13, DOI 10.3389/fpsyg.2022.888060
+   Parycek P, 2014, J THEOR APPL EL COMM, V9, P80, DOI 10.4067/S0718-18762014000200007
+   Qi D, 2023, J COMPUT PHYS, V485, DOI 10.1016/j.jcp.2023.112085
+   Spalevi Z, 2023, J SCI IND RES INDIA, V82, P711, DOI 10.56042/jsir.v82i07.472
+   State Council of the People's Republic of China, 2007, Regulation of the People's Republic of China on open government information
+   Susilo F. A. T., 2025, Asian Journal of Engineering, Social and Health, V4, DOI [10.46799/ajesh.v4i5.572, DOI 10.46799/AJESH.V4I5.572]
+   Toorajipour R, 2024, INT J INFORM MANAGE, V78, DOI 10.1016/j.ijinfomgt.2024.102804
+   Venkatesh V, 2008, MIS QUART, V32, P483
+   Volz F, 2025, J BUS RES, V201, DOI 10.1016/j.jbusres.2025.115747
+   Wang D, 2024, ASLIB J INFORM MANAG, V76, P522, DOI 10.1108/AJIM-03-2022-0161
+   Wang F, 2023, INFORM MANAGE-AMSTER, V60, DOI 10.1016/j.im.2023.103879
+   Wang J, 2025, SUSTAINABILITY-BASEL, V17, DOI 10.3390/su17104676
+   Wang V, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2019.101405
+   Xhafka E, 2024, SUSTAINABILITY-BASEL, V16, DOI 10.3390/su162410896
+   Xu DSY, 2024, J STRATEGIC INF SYST, V33, DOI 10.1016/j.jsis.2024.101863
+   Xu SM, 2025, GOV INFORM Q, V42, DOI 10.1016/j.giq.2025.102044
+   Yang BH, 2024, APPL MATH NONLIN SCI, V9, DOI [10.2478/amns.2023.2.01098, 10.2478/amns.2023.2.01098, DOI 10.2478/AMNS.2023.2.01098]
+   Yang ZB, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2019.103179
+   Zainuddin Z, 2024, IEEE ACCESS, V12, P148466, DOI 10.1109/ACCESS.2024.3475577
+   Zhao YP, 2022, GOV INFORM Q, V39, DOI 10.1016/j.giq.2022.101717
+   Zhao YP, 2021, GOV INFORM Q, V38, DOI 10.1016/j.giq.2021.101580
+   Zhou HP, 2023, KYBERNETES, V52, P4322, DOI 10.1108/K-11-2021-1188
+   Zuiderwijk A, 2021, TELEMAT INFORM, V62, DOI 10.1016/j.tele.2021.101634
+NR 56
+TC 0
+Z9 0
+U1 11
+U2 11
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-4573
+EI 1873-5371
+J9 INFORM PROCESS MANAG
+JI Inf. Process. Manage.
+PD JUL
+PY 2026
+VL 63
+IS 5
+AR 104670
+DI 10.1016/j.ipm.2026.104670
+PG 19
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA DL8TQ
+UT WOS:001686518200001
+OA hybrid
+DA 2026-03-11
+ER
+
+PT J
+AU Zhang, LY
+   Yang, LF
+   Wu, Q
+AF Zhang, Leyou
+   Yang, Lingfeng
+   Wu, Qing
+TI Enhanced verifiable traceability and policy update data-sharing system
+   for IoMT against flooding and DDoS attacks
+SO JOURNAL OF INFORMATION SECURITY AND APPLICATIONS
+LA English
+DT Article
+DE IoMT; Verifiable traceability; Dynamic revocation; Dynamic policy
+   updating; Flooding and DDoS attack; CP-ABE
+ID ATTRIBUTE-BASED ENCRYPTION; ACCESS-CONTROL; CP-ABE; SMART HEALTH;
+   PRIVACY; SCHEME
+AB The integration of 5G technology into the Internet of Medical Things (IoMT) presents numerous opportunities for the medical industry. But how to dynamically access and securely share the large amount of e-health data is still a challenging problem at present, e.g., the revocation methods applied in many schemes cannot prevent revoked users from colluding with unrevoked users or the cloud to obtain the shared data. Additionally, most schemes designed at present did not consider the audit of CSP, where it is semi-trusted and may return the nonlegal data to users. This paper proposes a comprehensive framework based on ciphertext-policy attribute-based encryption (CP-ABE) scheme which supports verifiable trace, policy hiding, revocation and policy updating. Meanwhile, our system resists flooding and DDoS attack against the cloud server provider. Comprehensive experimental results indicate that the proposed scheme has many advantages over others in terms of key storage consumption and the computational time consumption for encryption and decryption.(conducted on Intel(R) Core(TM) i5-8250U CPU and resource-constrained STM32L431 IoT devices) show that: 1) the proposed scheme reduces key storage consumption by 60%-70% compared to [1] and [2]; 2) its encryption time is 12ms (25% lower than [3]) and decryption time is 3ms (80% lower than [4] ) on IoT devices; and 3) it filters 99.8% of malicious packets within 100ms to resist DDoS attacks.
+C1 [Zhang, Leyou; Yang, Lingfeng] Xidian Univ, Sch Math & Stat, Xian 710126, Peoples R China.
+   [Wu, Qing] Xian Univ Posts & Telecommun, Sch Automation, Xian 710121, Peoples R China.
+C3 Xidian University; Xi'an University of Posts & Telecommunications
+RP Yang, LF (通讯作者)，Xidian Univ, Sch Math & Stat, Xian 710126, Peoples R China.
+EM lyzhang@mail.xidian.edu.cn; 23071213321@stu.xidian.edu.cn;
+   xiyouwuq@126.com
+FU Open Project Program of Guangxi Key Laboratory of Digital Infrastructure
+   [GXDIOP2025007]
+FX This work was supported in part by the Open Project Program of Guangxi
+   Key Laboratory of Digital Infrastructure under Grant GXDIOP2025007.
+CR Beimel A, 1996, PARTIAL FULFIL UNPUB
+   Bethencourt J, 2007, P IEEE S SECUR PRIV, P321, DOI 10.1109/sp.2007.11
+   Chase M, 2007, LECT NOTES COMPUT SC, V4392, P515
+   Chen D, 2024, IEEE INTERNET THINGS, P11
+   Chen SB, 2024, IEEE INTERNET THINGS, V11, P10441, DOI 10.1109/JIOT.2023.3325996
+   Cui H, 2016, EUROPEAN S RES COMPU
+   Fan K, 2024, IEEE INTERNET THINGS, V11, P15229, DOI 10.1109/JIOT.2023.3345134
+   Gao S, 2020, IEEE T VEH TECHNOL, V69, P5784, DOI 10.1109/TVT.2020.2967099
+   Ge CP, 2022, IEEE T DEPEND SECURE, V19, P2864, DOI 10.1109/TDSC.2021.3065999
+   Goyal V., 2006, Proceedings of the 13th ACM conference on Computer and communications security, P89, DOI DOI 10.1145/1180405.1180418
+   Guo R, 2021, IEEE INTERNET THINGS, V8, P8949, DOI 10.1109/JIOT.2021.3055541
+   Hei YM, 2021, COMPUT NETW, V191, DOI 10.1016/j.comnet.2021.108029
+   Lai JZ, 2013, IEEE T INF FOREN SEC, V8, P1343, DOI 10.1109/TIFS.2013.2271848
+   Lai JZ, 2011, LECT NOTES COMPUT SC, V6672, P24, DOI 10.1007/978-3-642-21031-0_3
+   Lewko A, 2011, LECT NOTES COMPUT SC, V6632, P568, DOI 10.1007/978-3-642-20465-4_31
+   Li JG, 2025, IEEE INTERNET THINGS, V12, P2146, DOI 10.1109/JIOT.2024.3468018
+   Li JG, 2020, IEEE T SERV COMPUT, V13, P478, DOI 10.1109/TSC.2017.2710190
+   Liang XY, 2024, IEEE J BIOMED HEALTH, V28, P3269, DOI 10.1109/JBHI.2024.3391218
+   Lin SQ, 2015, IEEE T INF FOREN SEC, V10, P2119, DOI 10.1109/TIFS.2015.2449264
+   Liu TD, 2024, IEEE INTERNET THINGS, V11, P11540, DOI 10.1109/JIOT.2023.3329892
+   Liu Z, 2015, IEEE T INF FOREN SEC, V10, P55, DOI 10.1109/TIFS.2014.2363562
+   Liu Z, 2013, IEEE T INF FOREN SEC, V8, P76, DOI 10.1109/TIFS.2012.2223683
+   Miao YB, 2024, IEEE T DEPEND SECURE, V21, P1845, DOI 10.1109/TDSC.2023.3292129
+   Ning JT, 2018, IEEE T DEPEND SECURE, V15, P883, DOI 10.1109/TDSC.2016.2608343
+   Potluri S, 2020, 2020 11 INT C COMPUT, P1, DOI [10.1109/ICCCNT49239.2020.9225396, DOI 10.1109/ICCCNT49239.2020.9225396]
+   Qin BD, 2015, IEEE T INF FOREN SEC, V10, P1384, DOI 10.1109/TIFS.2015.2410137
+   Rouselakis Y., 2013, P 2013 ACM SIGSAC C, P463, DOI [10.1145/2508859.2516672, DOI 10.1145/2508859.2516672]
+   Sahai A, 2005, LECT NOTES COMPUT SC, V3494, P457, DOI 10.1007/11426639_27
+   Wang N, 2024, IEEE T CLOUD COMPUT, V12, P1273, DOI 10.1109/TCC.2024.3461732
+   Wang SL, 2020, IEEE T IND APPL, V56, P4467, DOI 10.1109/TIA.2020.2969868
+   Waters B, 2011, LECT NOTES COMPUT SC, V6571, P53, DOI 10.1007/978-3-642-19379-8_4
+   Xu L, 2018, LECT NOTES COMPUT SC, V10631, P516, DOI [10.1007/978-3-319-89500-0_45, 10.1007/978-3-319-93387-0_27]
+   Yang K, 2015, IEEE T PARALL DISTR, V26, P3461, DOI 10.1109/TPDS.2014.2380373
+   Yang X, 2024, IEEE T NETW SCI ENG, V11, P6356, DOI 10.1109/TNSE.2024.3445343
+   Yin H, 2025, IEEE INTERNET THINGS, V12, P894, DOI 10.1109/JIOT.2024.3470891
+   Yu JG, 2023, IEEE INTERNET THINGS, V10, P2754, DOI 10.1109/JIOT.2022.3213829
+   Zeng P, 2021, IEEE INTERNET THINGS, V8, P10963, DOI 10.1109/JIOT.2021.3051362
+   Zhang LY, 2024, IEEE INTERNET THINGS, V11, P526, DOI 10.1109/JIOT.2023.3287190
+   Zhang ZS, 2024, IEEE T INTELL TRANSP, V25, P7861, DOI 10.1109/TITS.2024.3354984
+   Zhao Y, 2022, T EMERG TELECOMMUN T, V33, DOI 10.1002/ett.3785
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2214-2126
+EI 2214-2134
+J9 J INF SECUR APPL
+JI J. Inf. Secur. Appl.
+PD JUN
+PY 2026
+VL 99
+AR 104421
+DI 10.1016/j.jisa.2026.104421
+PG 16
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA EO0MF
+UT WOS:001705649300001
+DA 2026-03-11
+ER
+
+PT J
+AU Xia, H
+   Yang, YQ
+   Duan, JL
+AF Xia, Hui
+   Yang, Yuqing
+   Duan, Jialing
+TI Unveiling the digital confidant: How artificial intelligence
+   psychotherapists surpass human counterparts in enhancing privacy
+   disclosure intention
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Article
+DE Psychotherapist type; Privacy disclosure intention; Fear of negative
+   evaluation; Individual authenticity; Privacy security policy disclosure
+ID SELF-DISCLOSURE; SOCIAL ANXIETY; INFORMATION DISCLOSURE; ONLINE;
+   AUTHENTICITY; FACEBOOK; MEDIA; CONCEPTUALIZATION; COMMUNICATION;
+   WILLINGNESS
+AB In an era in which millions seek mental health support, they paradoxically turn to nonsentient algorithms for their most intimate confessions. Why do some people feel safer in disclosing their deepest fears to a machine than to a fellow human? Challenging the traditional axiom that physical proximity fosters psychological intimacy, this research employs privacy calculus theory to investigate how psychotherapist type (offline human, online human, and artificial intelligence, hereafter AI) influences privacy disclosure intention. Across five vignette-based experiments with Chinese online participants (Ntotal= 1461), we demonstrate that participants report significantly higher disclosure intentions toward AI psychotherapists than toward both offline and online human psychotherapists. This effect is mediated by reduced fear of negative evaluation, which is particularly salient among individuals with low authenticity (both state and trait), and the effect also generalizes to a male psychotherapist. We identify a critical boundary condition: proactively disclosing a privacy security policy attenuates the higher disclosure intentions toward the AI psychotherapist, revealing a nuanced trade-off between mitigating social judgment risk and activating data privacy risk. Our findings suggest that AI can serve as a valuable supplemental tool to lower disclosure barriers for stigma-sensitive populations, but caution that standard transparency practices may paradoxically suppress candor in this unique context. We extend privacy calculus theory by identifying fear of negative evaluation as a central social-evaluative cost and by distinguishing social from technical dimensions of privacy risk. This research offers guidance for designing ethically responsible AI psychotherapeutic tools that lower disclosure barriers for stigma-sensitive users while maintaining transparency and accountability.
+C1 [Xia, Hui; Yang, Yuqing; Duan, Jialing] Shandong Univ, Business Sch, Weihai, Peoples R China.
+C3 Shandong University
+RP Yang, YQ (通讯作者)，Beiheng Bldg,Off 423, Weihai, Peoples R China.
+EM grace.xia@sdu.edu.cn; 202421378@mail.sdu.edu.cn;
+   202200620278@mail.sdu.edu.cn
+FU Doctoral Student Research Fund in Business School of Shandong University
+   [SXYZD2025003]
+FX Financial support from the Doctoral Student Research Fund in Business
+   School of Shandong University (Grant No. SXYZD2025003) are gratefully
+   acknowledged.
+CR Abbe A, 2014, POLICE PRACT RES, V15, P207, DOI 10.1080/15614263.2013.827835
+   Aktan ME, 2022, COMPUT HUM BEHAV, V133, DOI 10.1016/j.chb.2022.107273
+   Andriole KP, 2014, J AM COLL RADIOL, V11, P1212, DOI 10.1016/j.jacr.2014.09.011
+   Argo JJ, 2005, J CONSUM RES, V32, P207, DOI 10.1086/432230
+   Baccon LA, 2019, CYBERPSYCH BEH SOC N, V22, P158, DOI 10.1089/cyber.2018.0247
+   Bailenson JN, 2021, TECHNOL MIND BEHAV, V2, DOI 10.1037/tmb0000030
+   Beke FT, 2022, INT J RES MARK, V39, P20, DOI 10.1016/j.ijresmar.2021.05.005
+   Berger C.R., 1975, HUM COMMUN RES, V1, P99, DOI [DOI 10.1111/J.1468-2958.1975.TB00258.X, 10.1111/j.1468-2958.1975.tb00258.x]
+   Blease C, 2024, CURR TREAT OPT PSYCH, V12, DOI [10.1007/s40501-024-00340-x, 10.1007/s40501-024-00340-x, DOI 10.1007/S40501-024-00340-X]
+   Brough AR, 2022, J MARKETING RES, V59, P739, DOI 10.1177/00222437211069093
+   Bruss KV, 2024, MMWR-MORBID MORTAL W, V73, P539, DOI 10.15585/mmwr.mm7324a1
+   CBNData, 2023, 2023 MENT HLTH IND I
+   Chen HC, 2025, COMPUT HUM BEHAV, V168, DOI 10.1016/j.chb.2025.108651
+   Cloarec J, 2024, PSYCHOL MARKET, V41, P1574, DOI 10.1002/mar.21998
+   Cooney Martin Daniel, 2018, Multimodal Technologies and Interaction, V2, DOI [10.3390/mti2030052, 10.3390/mti2030052]
+   Croes EAJ, 2024, INTERACT COMPUT, V36, P279, DOI 10.1093/iwc/iwae016
+   Culnan MJ, 1999, ORGAN SCI, V10, P104, DOI 10.1287/orsc.10.1.104
+   DAFT RL, 1986, MANAGE SCI, V32, P554, DOI 10.1287/mnsc.32.5.554
+   Dehbozorgi R, 2025, BMC PSYCHIATRY, V25, DOI 10.1186/s12888-025-06483-2
+   Fay AJ, 2012, J EXP SOC PSYCHOL, V48, P1369, DOI 10.1016/j.jesp.2012.05.017
+   Fini C, 2023, PSYCHOL RES-PSYCH FO, V87, P1683, DOI 10.1007/s00426-022-01785-6
+   Gallup, 2024, US ADULTSLONELINESS
+   Goel P. K., 2025, DEMYSTIFYING ROLE NA, DOI [10.4018/979-8-3693-4203-9.ch004, DOI 10.4018/979-8-3693-4203-9.CH004]
+   Graber-Stiehl I, 2023, NATURE, V617, P22, DOI 10.1038/d41586-023-01473-4
+   Grand View Research, 2024, AI MENTAL HLTH MARKE
+   Green T, 2016, COMPUT HUM BEHAV, V58, P206, DOI 10.1016/j.chb.2015.12.066
+   Grodniewicz JP, 2023, FRONT PSYCHIATRY, V14, DOI 10.3389/fpsyt.2023.1190084
+   Ho JQH, 2025, COMPUT HUM BEHAV REP, V19, DOI 10.1016/j.chbr.2025.100715
+   Hom MA, 2017, J CLIN PSYCHOL, V73, P1382, DOI 10.1002/jclp.22440
+   Huang MH, 2024, J MARKETING, V88, P1, DOI 10.1177/00222429231224748
+   Huwaë S, 2018, INT J PSYCHOL, V53, P176, DOI 10.1002/ijop.12283
+   Hwang Y, 2023, CYBERPSYCH BEH SOC N, V26, P214, DOI 10.1089/cyber.2022.0071
+   iResearch, 2025, CHIN EM HEAL IND RES
+   Jin JN, 2025, J CONSUM PSYCHOL, V35, P185, DOI 10.1002/jcpy.1414
+   Johnson AR, 2020, DEPRESS ANXIETY, V37, P1253, DOI 10.1002/da.23099
+   Joinson AN, 2008, COMPUT HUM BEHAV, V24, P2158, DOI 10.1016/j.chb.2007.10.005
+   Joinson AN, 2010, HUM-COMPUT INTERACT, V25, P1, DOI 10.1080/07370020903586662
+   Joinson AN, 2001, EUR J SOC PSYCHOL, V31, P177, DOI 10.1002/ejsp.36
+   Jurblum M, 2025, AUSTRALAS PSYCHIATRY, V33, P103, DOI 10.1177/10398562241286312
+   Kaldo V, 2021, EUR PSYCHIAT, V64, pS20, DOI 10.1192/j.eurpsy.2021.75
+   Khan MM, 2025, INT J MED INFORM, V195, DOI 10.1016/j.ijmedinf.2024.105780
+   Kifer Y, 2013, PSYCHOL SCI, V24, P280, DOI 10.1177/0956797612450891
+   Kim D, 2019, COMPUT HUM BEHAV, V92, P273, DOI 10.1016/j.chb.2018.11.022
+   Kim TW, 2022, J SERV RES-US, V25, P649, DOI 10.1177/10946705221120232
+   Kocyigit M, 2025, CURR PSYCHOL, V44, P3564, DOI 10.1007/s12144-024-07253-1
+   Kolotylo-Kulkarni M, 2021, J BUS RES, V126, P221, DOI 10.1016/j.jbusres.2020.12.006
+   Konno Y, 2021, PREV MED REP, V24, DOI 10.1016/j.pmedr.2021.101621
+   Laban G, 2024, PROCEEDINGS OF THE 12TH CONFERENCE ON HUMAN-AGENT INTERACTION, HAI 2024, P250, DOI 10.1145/3687272.3688296
+   Laban G, 2023, IEEE ROMAN, P1697, DOI 10.1109/RO-MAN57019.2023.10309551
+   Laestadius L, 2024, NEW MEDIA SOC, V26, P5923, DOI 10.1177/14614448221142007
+   Lakens D, 2018, ADV METH PRACT PSYCH, V1, P259, DOI 10.1177/2515245918770963
+   LEARY MR, 1983, PERS SOC PSYCHOL B, V9, P371, DOI 10.1177/0146167283093007
+   Lee J, 2025, INT J HUM-COMPUT INT, V41, P1010, DOI 10.1080/10447318.2024.2307695
+   Lenton AP, 2013, J PERS, V81, P276, DOI 10.1111/j.1467-6494.2012.00805.x
+   Li H, 2024, J COMPUT-MEDIAT COMM, V29, DOI 10.1093/jcmc/zmae015
+   Li J, 2025, TECHNOL SOC, V81, DOI 10.1016/j.techsoc.2025.102817
+   Li Y, 2022, BEHAV INFORM TECHNOL, V41, P655, DOI 10.1080/0144929X.2020.1831608
+   Longoni C, 2019, J CONSUM RES, V46, P629, DOI 10.1093/jcr/ucz013
+   Lucas GM, 2017, FRONT ROBOT AI, V4, DOI 10.3389/frobt.2017.00051
+   Maloney D, 2020, ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, VRST 2020, DOI 10.1145/3385956.3418967
+   Maples B, 2024, NPJ MENT HEALTH RES, V3, DOI 10.1038/s44184-023-00047-6
+   Marriott HR, 2024, PSYCHOL MARKET, V41, P86, DOI 10.1002/mar.21899
+   Meadi MR, 2025, JMIR MENT HEALTH, V12, DOI 10.2196/60432
+   Mehta A, 2021, J MED INTERNET RES, V23, DOI 10.2196/26771
+   Meilan H., 2025, PREPRINT
+   Miller T, 2019, ARTIF INTELL-AMST, V267, P1, DOI 10.1016/j.artint.2018.07.007
+   Mittal S., 2024, AIP C P, V2816, DOI [10.1063/5.0177918, DOI 10.1063/5.0177918]
+   Moon Y, 2000, J CONSUM RES, V26, P323, DOI 10.1086/209566
+   Morrison AS, 2024, J ANXIETY DISORD, V104, DOI 10.1016/j.janxdis.2024.102874
+   Mosteller J, 2017, J INTERACT MARK, V39, P27, DOI 10.1016/j.intmar.2017.02.003
+   Nadarzynski T, 2019, DIGIT HEALTH, V5, DOI 10.1177/2055207619871808
+   Nass C, 2000, J SOC ISSUES, V56, P81, DOI 10.1111/0022-4537.00153
+   Nelson J, 2025, CURR PSYCHOL, V44, P7847, DOI 10.1007/s12144-025-07320-1
+   Nemati H, 2014, J GLOB INF TECH MAN, V17, P228, DOI 10.1080/1097198X.2014.978622
+   Newman GE, 2019, REV GEN PSYCHOL, V23, P8, DOI 10.1037/gpr0000158
+   Ng M, 2016, COMPUT HUM BEHAV, V54, P491, DOI 10.1016/j.chb.2015.08.024
+   Ovsyannikova D, 2025, COMMUN PSYCHOL, V3, DOI [10.1038/s44271-024-00182-6, 10.1038/s44271-024-00182-6]
+   Park YJ, 2015, COMPUT HUM BEHAV, V50, P252, DOI 10.1016/j.chb.2015.04.011
+   Pelau C, 2021, COMPUT HUM BEHAV, V122, DOI 10.1016/j.chb.2021.106855
+   Prince C, 2023, IEEE T ENG MANAGE, V70, P3553, DOI 10.1109/TEM.2021.3092702
+   Saeidnia HR, 2024, SOC SCI-BASEL, V13, DOI 10.3390/socsci13070381
+   Schaarschmidt N, 2021, SOCIETIES, V11, DOI 10.3390/soc11010020
+   Schäfer LM, 2025, FRONT DIGIT HEALTH, V7, DOI 10.3389/fdgth.2025.1576135
+   SCHLENKER BR, 1982, PSYCHOL BULL, V92, P641, DOI 10.1037/0033-2909.92.3.641
+   Sharma A, 2023, NAT MACH INTELL, V5, P46, DOI 10.1038/s42256-022-00593-2
+   Sheldon KM, 1997, J PERS SOC PSYCHOL, V73, P1380, DOI 10.1037/0022-3514.73.6.1380
+   Skjuve Marita, 2022, International Journal of Human-Computer Studies, DOI [10.1016/j.ijhcs.2022.102903, 10.1016/j.ijhcs.2022.102903]
+   SNELL WE, 1992, J COUNS DEV, V70, P409, DOI 10.1002/j.1556-6676.1992.tb01625.x
+   Stringer K. L., 2024, INTERSECTIONAL STIGM
+   Tifferet S, 2019, COMPUT HUM BEHAV, V93, P1, DOI 10.1016/j.chb.2018.11.046
+   Toma CL, 2013, PERS SOC PSYCHOL B, V39, P321, DOI 10.1177/0146167212474694
+   Tretter M, 2024, FRONT ARTIF INTELL, V7, DOI 10.3389/frai.2024.1398395
+   Tsarpalis-Fragkoulidis A, 2025, DEV PSYCHOPATHOL, V37, P1756, DOI 10.1017/S0954579424001366
+   Wang JQ, 2023, J CONSUM PSYCHOL, V33, P377, DOI 10.1002/jcpy.1298
+   Wang XQ, 2025, J BUS ETHICS, V200, P373, DOI 10.1007/s10551-024-05894-7
+   Wei XY, 2024, TECHNOL SOC, V77, DOI 10.1016/j.techsoc.2024.102566
+   Wester Joel, 2024, Computers in Human Behavior: Artificial Humans, V2, DOI [10.1016/j.chbah.2024.100072, 10.1016/j.chbah.2024.100072]
+   Wiederhold BK, 2020, CYBERPSYCH BEH SOC N, V23, P275, DOI 10.1089/cyber.2020.29181.bkw
+   Wiegard RB, 2019, ELECTRON MARK, V29, P107, DOI 10.1007/s12525-017-0274-1
+   Wood AM, 2008, J COUNS PSYCHOL, V55, P385, DOI 10.1037/0022-0167.55.3.385
+   Wu KW, 2012, COMPUT HUM BEHAV, V28, P889, DOI 10.1016/j.chb.2011.12.008
+   Wysocki O, 2023, ARTIF INTELL-AMST, V316, DOI 10.1016/j.artint.2022.103839
+   Yin YD, 2024, P NATL ACAD SCI USA, V121, DOI 10.1073/pnas.2319112121
+   Zeng RX, 2021, FRONT PSYCHOL, V12, DOI 10.3389/fpsyg.2021.530722
+   Zhang JH, 2024, COMPUT HUM BEHAV, V160, DOI 10.1016/j.chb.2024.108382
+   Zhang X, 2018, INFORM MANAGE-AMSTER, V55, P482, DOI 10.1016/j.im.2017.11.003
+   Zhang YJ, 2024, J RES INTERACT MARK, V18, P166, DOI 10.1108/JRIM-09-2022-0286
+   Zhang YF, 2025, BMC PSYCHIATRY, V25, DOI 10.1186/s12888-024-06454-z
+   Zhang ZH, 2024, FRONT PSYCHIATRY, V15, DOI 10.3389/fpsyt.2024.1444382
+   Zhong WJ, 2024, J AFFECT DISORDERS, V356, P459, DOI 10.1016/j.jad.2024.04.057
+NR 110
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD JUN
+PY 2026
+VL 86
+AR 103263
+DI 10.1016/j.techsoc.2026.103263
+PG 13
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA DW2KB
+UT WOS:001693554400001
+DA 2026-03-11
+ER
+
